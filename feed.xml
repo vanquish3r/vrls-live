@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>VRLS</title>
+    <item>
+      <title>First Item</title>
+    </item>
+    <item>
+      <title>Second Item</title>
+    </item>
+    <item>
+      <title>Third Item</title>
+    </item>
+    <item>
+      <title>Fourth Item</title>
+    </item>
+    <item>
+      <title>Fifth Item</title>
+    </item>
+  </channel>
+</rss>
