@@ -1,7 +1,7 @@
 <!--
 title = Blue
 subtitle = Pink
-summary = Blue
+description = Blue
 link = Pink
 -->
 <!--<color=#4E5DFF>%Entry_Title%</color>%Entry_SubTitle%<color=#4E5DFF>%Entry_Summary%</color>%Entry_Link%-->
@@ -13,25 +13,25 @@ link = Pink
     <item>
       <title></title>
       <subtitle>Display your own custom messages here by becoming a supporter! </subtitle>
-      <summary>ฅ^•ﻌ•^ฅ</summary>
+      <description>ฅ^•ﻌ•^ฅ</description>
       <link></link>
     </item>
     <item>
       <title></title>
       <subtitle>Visit vrlateshow.com for more information. </subtitle>
-      <summary>≽(•ﻌ •マ≼</summary>
+      <description>≽(•ﻌ •マ≼</description>
       <link></link>
     </item>
     <item>
       <title></title>
       <subtitle>@vrlateshow </subtitle>
-      <summary>≽^•ﻌ•^≼ Subscribe and follow us on YouTube, Twitch, Instagram, and TikTok ₊‧.°.⋆✮⋆.°.₊ </summary>
+      <description>≽^•ﻌ•^≼ Subscribe and follow us on YouTube, Twitch, Instagram, and TikTok ₊‧.°.⋆✮⋆.°.₊ </description>
       <link>@vrlateshow</link>
     </item>
     <item>
       <title>@vrlateshow </title>
       <subtitle>(=^・^=) Support us on Patreon, Ko-fi, or PayPal.me ₍=^•ﻌ•^=₎♡ </subtitle>
-      <summary>@vrlateshow</summary>
+      <description>@vrlateshow</description>
       <link></link>
     </item>
   </channel>
