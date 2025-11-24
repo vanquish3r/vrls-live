@@ -1,18 +1,38 @@
+<!--
+title = Blue
+subtitle = Pink
+summary = Blue
+link = Pink
+-->
+<!--<color=#4E5DFF>%Entry_Title%</color>%Entry_SubTitle%<color=#4E5DFF>%Entry_Summary%</color>%Entry_Link%-->
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>VRLS</title>
     <item>
-      <title>Display your own custom messages here by becoming a supporter! ฅ^•ﻌ•^ฅ</title>
+      <title></title>
+      <subtitle>Display your own custom messages here by becoming a supporter! </subtitle>
+      <summary>ฅ^•ﻌ•^ฅ</summary>
+      <link></link>
     </item>
     <item>
-      <title>Visit vrlateshow.com for more information. ≽(•ﻌ •マ≼</title>
+      <title></title>
+      <subtitle>Visit vrlateshow.com for more information. </subtitle>
+      <summary>≽(•ﻌ •マ≼</summary>
+      <link></link>
     </item>
     <item>
-      <title>@vrlateshow ≽^•ﻌ•^≼ Subscribe and follow us on YouTube, Twitch, Instagram, and TikTok ₊‧.°.⋆✮⋆.°.₊ @vrlateshow</title>
+      <title></title>
+      <subtitle>@vrlateshow </subtitle>
+      <summary>≽^•ﻌ•^≼ Subscribe and follow us on YouTube, Twitch, Instagram, and TikTok ₊‧.°.⋆✮⋆.°.₊ </summary>
+      <link>@vrlateshow</link>
     </item>
     <item>
-      <title>@vrlateshow (=^・^=) Support us on Patreon, Ko-fi, or PayPal.me ₍=^•ﻌ•^=₎♡ @vrlateshow</title>
+      <title>@vrlateshow </title>
+      <subtitle>(=^・^=) Support us on Patreon, Ko-fi, or PayPal.me ₍=^•ﻌ•^=₎♡ </subtitle>
+      <summary>@vrlateshow</summary>
+      <link></link>
     </item>
   </channel>
 </rss>
