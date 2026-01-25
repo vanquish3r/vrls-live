@@ -100,6 +100,28 @@ So somewhere out there is a man who almost died because he wanted his car to be 
 Winter does not care about convenience. And carbon monoxide does not care about your plans.
 
 ---
+1 - AI
+2 - Not AI
+3 - Not AI
+4 - AI
+5 - AI
+6 - Not AI
+7 - AI
+8 - Not AI
+9 - AI
+10 - AI
+11 - Not AI
+12 - AI
+13 - Not AI
+14 - Not AI
+15 - AI
+16 - Not AI
+17 - AI
+18 - AI
+19 - Not AI
+20 - Not AI
+
+---
 Things We Pretend Are Normal
 
 Alright, let’s talk about the weird things we all just accept in VR. Things that absolutely would be insane in real life… but here? Totally fine.
