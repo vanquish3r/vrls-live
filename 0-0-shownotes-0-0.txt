@@ -491,27 +491,64 @@ DEVIL:
 Choose wisely.
 
 ---
-Truths 											Dares
+Truths 											
 
-*What’s something you pretend doesn’t bother you, but absolutely does?			*Walk like a dramatic villain for five steps, then freeze.
-*When was the last time you almost said too much?					*Do your best exaggerated “I’ve been caught” pose.
-*Who here do you feel most seen by?							*Slowly sneak across the room like you’re in a stealth game.
-*What’s a habit you defend even though you know it’s questionable?			*Strike the most heroic pose you can and hold it for five seconds.
-*What’s something you avoid because you’re afraid you’ll care too much?			*Pretend to trip, recover, and act like nothing happened.
-*What’s the most recent thing you overthought?						*Walk in a small circle like you’re waiting for something important to load.
-*What part of yourself do you only show in spaces like this?				*Do an overly confident finger-gun point at the air.
-*What’s a compliment you secretly didn’t believe?					*Act out “buffering” with your whole body for five seconds.
-*What’s something you’re proud of but rarely talk about?				*Take three stompy steps like you’re making an entrance.
-*What’s the last thing you muted yourself to react to?					*Dramatically clutch your chest like you’ve been emotionally wounded.
-*What’s a pattern you’re actively trying to unlearn?					*Pretend to look for something you dropped — then give up.
-*What’s something you wish people understood about you?					*Do a slow, exaggerated head turn like you just heard gossip.
-*What’s a boundary you learned the hard way?						*Walk backward three steps like you regret moving forward.
-*What’s a role you accidentally fell into here?						*Strike a pose like you’re in a character-select screen.
-*What’s something you miss more than you admit?						*Do the most awkward idle animation you can for five seconds.
-*What’s a decision you keep calling “temporary”?					*Point dramatically at nothing and nod like it explains everything.
-*What’s a fear you’re quieter about now than you used to be?				*Pretend to argue with an invisible person using only gestures.
-*What’s one thing that instantly changes your mood?					*Walk confidently to a spot, stop, then look confused why you’re there.
-*What’s something you’re still figuring out?						*Act like gravity suddenly got heavier for five seconds.
-*What truth do you usually dodge when games like this come up?				*Take a three-step victory lap and bow like the crowd applauded.
+*What’s something you pretend doesn’t bother you, but absolutely does?			
+*When was the last time you almost said too much?					
+*Who here do you feel most seen by?							
+*What’s a habit you defend even though you know it’s questionable?			
+*What’s something you avoid because you’re afraid you’ll care too much?			
+*What’s the most recent thing you overthought?						
+*What part of yourself do you only show in spaces like this?				
+*What’s a compliment you secretly didn’t believe?					
+*What’s something you’re proud of but rarely talk about?				
+*What’s the last thing you muted yourself to react to?					
+*What’s a pattern you’re actively trying to unlearn?					
+*What’s something you wish people understood about you?					
+*What’s a boundary you learned the hard way?						
+*What’s a role you accidentally fell into here?						
+*What’s something you miss more than you admit?						
+*What’s a decision you keep calling “temporary”?					
+*What’s a fear you’re quieter about now than you used to be?				
+*What’s one thing that instantly changes your mood?					
+*What’s something you’re still figuring out?						
+*What truth do you usually dodge when games like this come up?				
+
+---
+Dares
+*Walk like a dramatic villain for five steps, then freeze.
+*Do your best exaggerated “I’ve been caught” pose.
+*Slowly sneak across the room like you’re in a stealth game. 
+*Strike the most heroic pose you can and hold it for five seconds.
+*Pretend to trip, recover, and act like nothing happened.
+*Walk in a small circle like you’re waiting for something important to load.
+*Do an overly confident finger-gun point at the air.
+*Act out “buffering” with your whole body for five seconds.
+*Take three stompy steps like you’re making an entrance.
+*Dramatically clutch your chest like you’ve been emotionally wounded.
+*Pretend to look for something you dropped — then give up.
+*Do a slow, exaggerated head turn like you just heard gossip.
+*Walk backward three steps like you regret moving forward.
+*Strike a pose like you’re in a character-select screen.
+*Do the most awkward idle animation you can for five seconds.
+*Point dramatically at nothing and nod like it explains everything.
+*Pretend to argue with an invisible person using only gestures.
+*Walk confidently to a spot, stop, then look confused why you’re there.
+*Act like gravity suddenly got heavier for five seconds.
+*Take a three-step victory lap and bow like the crowd applauded.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
