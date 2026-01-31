@@ -321,7 +321,6 @@ KITTY: That’s cruel.
 
 DEVIL: Adaptive cruelty.
 
----
 LOSING THINGS YOU JUST HAD
 
 DEVIL: Your keys. Your phone. Your train of thought. You just had them.
@@ -330,6 +329,7 @@ KITTY: Where did they go?
 
 DEVIL: Somewhere instructional.
 
+---
 MEETINGS THAT COULD HAVE BEEN EMAILS
 
 DEVIL: These exist to drain hope in safe, measured doses.
@@ -364,8 +364,6 @@ KITTY: So close to winning…
 
 DEVIL: No winners here.
 
-
----
 WHEN A PASSWORD IS “ALMOST” RIGHT
 
 DEVIL: Incorrect password. But you’re close.
@@ -374,6 +372,7 @@ KITTY: Why not just let them in?
 
 DEVIL: Security builds character.
 
+---
 WHEN YOU OPEN THE FRIDGE REPEATEDLY
 
 DEVIL: You’re not looking for food. You’re looking for answers.
@@ -382,7 +381,6 @@ KITTY: Do answers live in the fridge?
 
 DEVIL: Not yet.
 
----
 CLOSING
 
 DEVIL:
