@@ -338,7 +338,6 @@ KITTY: What if we cancel them?
 
 DEVIL: People start dreaming.
 
----
 WHEN YOU HIT “REPLY ALL” BY ACCIDENT
 
 DEVIL:
@@ -348,6 +347,7 @@ KITTY: Why does it always happen at work?
 
 DEVIL: Community building.
 
+---
 WHEN THE GPS RE-ROUTES AT THE LAST SECOND
 
 DEVIL: You trusted the path. We changed it.
@@ -356,7 +356,6 @@ KITTY: But you said turn right!
 
 DEVIL: Growth requires detours.
 
----
 WHEN YOU WAKE UP TWO MINUTES BEFORE YOUR ALARM
 
 DEVIL: That’s anticipation anxiety.
@@ -365,6 +364,8 @@ KITTY: So close to winning…
 
 DEVIL: No winners here.
 
+
+---
 WHEN A PASSWORD IS “ALMOST” RIGHT
 
 DEVIL: Incorrect password. But you’re close.
@@ -373,7 +374,6 @@ KITTY: Why not just let them in?
 
 DEVIL: Security builds character.
 
----
 WHEN YOU OPEN THE FRIDGE REPEATEDLY
 
 DEVIL: You’re not looking for food. You’re looking for answers.
