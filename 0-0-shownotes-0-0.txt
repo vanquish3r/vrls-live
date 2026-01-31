@@ -1,19 +1,20 @@
-The VR Late Show Episode #90
-January 24th, 2026
+The VR Late Show Episode #91
+January 31st, 2026
 
 => Opening Act (if any) - 10 mins
 => Socials & Picture - 5 mins
-=> Community Spotlight (changing to celebrating a win) - 5 mins
+=> Community Spotlight - 5 mins
 => National Days - 5 mins
+=> Poker Night Video - 5 mins
 => Heckler Intro - 1 min
-=> Explain Your Avatar Like a Dating Profile - 5-10 mins
-=> Liar Liar - 10-15 mins
+=> Temptation Showcase 5-10mins (AI Generated)
+=> The Devil Explains Modern Life 5-10 mins (AI Generated)
 => Game Key Giveaway - 5 mins
 => Darwin Award - 5 mins
-=> Is It AI? 5-10 mins
-=> Things We Pretend Are Normal 5-10 mins
+=> Fake Origin Stories of the Community 5-10 mins (Each of us do X amount) 
+=> Game Show of some sort 
+=> Truth or Dare: “Tell or Be Told” - 5-10 mins (AI Generated)
 => Sell It In A Minute - 5 mins
-=> Make Bronina Act! - 5-10 mins
 => Statics Hot Take - 5 mins
 => Game Key Giveaway - 5 mins
 => Virtual Prizes - 5 mins
@@ -21,141 +22,492 @@ January 24th, 2026
 => Divine Songs
 => Sign off
 
+--
 Game Key Winners
 
 Kaymerd, Oozyrat, Nystx, CrypticWoodworker, 5dollarchips, Bigjon, Tuna, Simon, zephii, lostxfam, Divine, Vanquish3r (Kilo), Slinky, ScabVendor, zonti, captndan, FireBee, BennyBoy, Kage, Grimevil, BeeMoQ, Ghostdroid, FireRat, CeeCee, Pandachef, WhoDoctorK9, jifskip, Bronina, DutchJones, Giggley, Mexicansc f215, mentalgerm, Dogsdance123, deaval,  
 
----
+--
+This week’s bright spot is Bigjon.
+
+Bigjon has been doing something genuinely impressive behind the scenes. He jumped headfirst into learning Unity to build for Banter first, then took those skills and expanded into VRChat, along with avatar work and full-on asset creation. None of this was familiar ground for him at the start. This was a completely new skill set, and he took it on anyway, step by step, problem by problem, and stuck with it.
+
+What really stands out is how fast he didn’t just learn, but leveled up. He’s gone from learning the basics to actually understanding the systems, troubleshooting, building cleanly, and creating things that other people want to use. He’s already releasing his own assets into the world, making them available to the community, and someone has already purchased one. That’s not a hypothetical win. That’s real proof that his work has value.
+
+And instead of keeping that momentum to himself, he’s become someone people trust. People are actively reaching out to him, asking questions, booking time with him, and wanting him to teach them because he knows his stuff and explains it well. That shift from learner to mentor does not happen by accident. It happens because someone puts in the time and earns that respect.
+
+What we’re seeing here feels like the beginning of something much bigger. Bigjon is building real, transferable skills, building confidence, building a reputation, and opening the door to making money doing creative work in VR. This is the kind of path where you look back in a year and go, “That’s where it started.”
+
+Bigjon, you should be incredibly proud of what you’ve accomplished already, and we’re all excited to see where you take this next. This is absolutely a win worth celebrating.
+
+--
 National Days
 
-* National Peanut Butter Day
-Today we honour the glue that holds toast together and makes dogs think you are a culinary genius. Creamy or crunchy, it understands us in ways people never will.
+*National Dark Chocolate Day
+The day we celebrate the slightly bitter hero that makes life sweet… and makes you feel fancy eating it straight from the bar.
 
-* National Beer Can Appreciation Day
-A moment of silence for the humble beer can. Portable, recyclable, and always there for you when a glass feels like too much commitment.
+*National Texas Day
+Everything’s bigger today: the hats, the steaks, and the chances you’ll accidentally say “y’all” at least three times.
 
-* National Compliment Day 
-Today you are legally required to say one nice thing about someone. Yes, even that person. Especially that person. Good luck out there.
+*National Get Up Day
+Rise and shine! Or, you know… roll over once, stretch, and still call it participation.
 
----
-This Week’s Bright Spot
+*National Baked Alaska Day
+Ice cream and fire, together at last. A dessert that screams “I have no idea what I’m doing, but it looks cool.”
 
-Quick note before we get into this. Over time, we’ve highlighted a huge portion of the community through Community Spotlight. As we’ve started circling back toward repeats, it felt like the right moment to evolve the segment rather than just rerun the same format.
+*National Serpent Day
+A day to appreciate snakes: slithery, sneaky, and the only creatures who can judge you silently without ever making eye contact.
 
-So Community Spotlight is becoming This Week’s Bright Spot.
+*National Freedom Day
+A day to honour the power to speak, act, and live with dignity. It is a reminder that freedom must be defended, valued, and never taken for granted.
 
-Same heart, same intention, just a wider lens. This gives us room to celebrate wins of all kinds. Big, small, personal, professional, or just moments that deserve a little recognition. Because this community isn’t only what happens in VR, it’s the people behind the headsets too.
+--
 
-This week’s bright spot is Dutch.
+Temptation Showcase
 
-Dutch just earned a promotion at work, and honestly, it makes complete sense to anyone who knows him. He’s consistent. He’s reliable. He shows up, does the work, and does it without needing to be the loudest person in the room. He’s the kind of person people trust because he follows through.
+DEVIL:
+Welcome… welcome.
+Relax. You’re safe here.
+I’m not here to judge you.
+That would be hypocritical.
+I’m here to offer temptations.
+You decide whether you’d give in…
+—or whether you’d like to lie to yourself creatively.
+Take your time.
+I have eternity.
+KITTY:
+And I’m just here to read the ones
+you pretend don’t apply to you.
 
-He brings that same energy everywhere. Steady, supportive, thoughtful, and quietly competent. The kind of person who makes things run smoother just by being involved. Those are the people who don’t always get flashy praise, but they’re the ones teams depend on.
+--
 
-A promotion like this isn’t luck. It’s a reflection of character, work ethic, and the respect he’s earned over time.
+1. “Just One More Episode” — DEVIL
+DEVIL:
+You said last one.
+Then the screen skipped the credits.
+Do you stop it…
+or trust autoplay more than yourself?
 
-So Dutch, congratulations. We see you, we’re proud of you, and this win couldn’t have gone to a better person.
+2. The Snooze Button — KITTY
+KITTY:
+The alarm goes off.
+You are technically alive.
+Do you get up like an adult…
+or negotiate five more minutes like it’s a hostage situation?
 
-Let’s give it up for Dutch!
+3. The Late-Night Snack — DEVIL
+DEVIL:
+You are not hungry.
+You are bored and emotionally curious.
+Do you stay in bed…
+or let the kitchen decide your fate?
 
----
-Explain Your Avatar Like a Dating Profile
+4. Reading the Message and Not Replying — KITTY
+KITTY:
+You saw it.
+They know you saw it.
+Do you answer now…
+or pretend you were “busy” for six hours?
 
-Core Premise
+--
+5. Checking Their Profile — DEVIL
+DEVIL:
+You’re over them.
+Completely healed.
+So why is their profile one click away?
+Do you close the app…
+or emotionally investigate?
 
-People describe their avatar as if they are desperately trying to attract someone on a dating app. Everything is framed as a selling point, even things that are clearly red flags.
+6. Correcting Someone Online — KITTY
+KITTY:
+They’re wrong.
+Like… confidently wrong.
+Do you scroll past in peace…
+or type “actually” and ruin your evening?
 
-The Rules (Say These Out Loud)
+7. Talking Shit — Just a Little — DEVIL
+DEVIL:
+You promised you wouldn’t gossip.
+But someone brought them up.
+Do you stay neutral…
+or add one harmless detail?
 
-You are describing your avatar, not yourself
-You must oversell everything
-You must completely ignore any red flags
-Confidence is mandatory
 
-How It Runs Live
+8. The DM You Shouldn’t Send — KITTY
+KITTY:
+It’s late.
+You’re feeling bold for no reason.
+The message is typed.
+Do you delete it…
+or press send and blame the vibes?
 
-Pick a volunteer or call on someone randomly
-Ask them to describe their avatar like a dating profile bio
-Let them finish without interruption
-Hosts react by gently translating what was actually said
+--
+9. Calling Out of Work — DEVIL
+DEVIL:
+You could go in.
+You should go in.
+But your soul feels fragile.
+Do you show up…
+or suddenly develop a cough?
 
----
+10. Retail Therapy — KITTY
+KITTY:
+You don’t need it.
+You absolutely don’t.
+But it is on sale.
+Do you save money…
+or heal yourself with free shipping?
+
+11. Pretending You’re Fine — DEVIL
+DEVIL:
+Someone asks, “How are you?”
+They don’t want the truth.
+Do you say “I’m good”…
+or emotionally overshare anyway?
+
+12. Staying Silent in an Argument — KITTY
+KITTY:
+You have the perfect comeback.
+It would end them.
+Do you choose peace…
+or violence with vocabulary?
+
+--
+13. One More Drink — DEVIL
+DEVIL:
+You’re already relaxed.
+You don’t need another.
+But the glass is half empty.
+Do you stop…
+or commit to the bit?
+
+14. The Mute Button — KITTY
+KITTY:
+Someone is explaining something you already know.
+Do you listen politely…
+or mute them with intention?
+
+15. Turning the Camera Off — DEVIL
+DEVIL:
+You’re technically present.
+But not spiritually engaged.
+Do you stay visible…
+or disappear quietly?
+
+16. Not Reading the Instructions — KITTY
+KITTY:
+You could read them.
+But you feel like you get it.
+Do you double-check…
+or wing it confidently?
+
+--
+17. Staying in the Comment Section — DEVIL
+DEVIL:
+You meant to scroll past.
+Now you’re invested.
+Do you leave peacefully…
+or keep reading terrible opinions?
+
+18. Ignoring the Red Flag — KITTY
+KITTY:
+You saw it.
+You clocked it immediately.
+Do you address it…
+or call it a “quirk”?
+
+19. “I’ll Start Tomorrow” — DEVIL
+DEVIL:
+You’re motivated.
+Just not today.
+Do you begin now…
+or let future you suffer?
+
+20. Staying Up Way Too Late — KITTY
+KITTY:
+Tomorrow matters. 
+Sleep is important.
+But the night feels productive.
+Do you log off responsibly…
+or greet tomorrow exhausted and defiant?
+
+--
+DEVIL: Interesting choices. Some of you were honest. Some of you were… hopeful. Temptation doesn’t make you weak. It simply reveals who you are… when you think no one’s watching.
+
+KITTY:
+Sleep well tonight.
+
+DEVIL (smirking): I’ll see you tomorrow… when you hit snooze
+
+--
+The Devil Explains Modern Life
+
+DEVIL: People keep asking the same question. “Why does this keep happening to me?” And I find that adorable.
+
+KITTY: They really think it’s an accident.
+
+DEVIL: Nothing is random. Nothing is accidental. And yes—you agreed to this.
+
+KITTY: I don’t remember signing anything.
+
+DEVIL: You never do. Let me explain.
+
+--
+PARKING TICKETS
+
+DEVIL:
+Parking tickets aren’t about rules. They’re about mortality. A brightly colored reminder that time passed… and you misjudged it.
+
+KITTY: So it’s not about the meter?
+
+DEVIL: No. It’s about the dread you felt walking back to your car.
+
+TECHNOLOGY FAILING AT THE WORST MOMENT
+
+DEVIL: Your internet disconnecting right before the meeting ends? Character development.
+
+KITTY: What about when the mic cuts out right when you finally talk?
+
+DEVIL: Confidence calibration.
+
+--
+ALMOST SUCCEEDING — THEN FAILING
+
+DEVIL: Being this close to success before everything collapses? A classic infernal flourish.
+
+KITTY: You let them see it first?
+
+DEVIL: Of course. Hope sharpens the lesson.
+
+AUTOCORRECT BETRAYING YOU
+
+DEVIL: You typed the right thing. Autocorrect changed it anyway. Humility.
+
+KITTY:You made them send that?
+
+DEVIL: They’ll laugh about it eventually.
+
+WAITING ON HOLD FOREVER
+
+DEVIL: You’re not waiting for a representative. They’re waiting for you to sigh loudly.
+
+KITTY: Is that why the music loops?
+
+DEVIL: Exactly.
+
+--
+EVERYTHING BREAKING AT ONCE
+
+DEVIL: Your car. Your phone. Your plans. All in the same week. Batch processing.
+
+KITTY: That feels excessive.
+
+DEVIL: Efficient.
+
+THE “ARE YOU SURE?” PROMPT
+
+DEVIL: Every device that asks, “Are you sure?” already knows the answer.
+
+KITTY: Then why ask?
+
+DEVIL: We enjoy the pause.
+
+THE UPDATE YOU DIDN’T ASK FOR
+
+DEVIL: Nothing was wrong. Now everything looks different and the button moved.
+
+KITTY: That’s cruel.
+
+DEVIL: Adaptive cruelty.
+--
+LOSING THINGS YOU JUST HAD
+
+DEVIL: Your keys. Your phone. Your train of thought. You just had them.
+
+KITTY: Where did they go?
+
+DEVIL: Somewhere instructional.
+
+MEETINGS THAT COULD HAVE BEEN EMAILS
+
+DEVIL: These exist to drain hope in safe, measured doses.
+
+KITTY: What if we cancel them?
+
+DEVIL: People start dreaming.
+
+WHEN YOU HIT “REPLY ALL” BY ACCIDENT
+
+DEVIL:
+That’s not a mistake. That’s accountability roulette.
+
+KITTY: Why does it always happen at work?
+
+DEVIL: Community building.
+--
+WHEN THE GPS RE-ROUTES AT THE LAST SECOND
+
+DEVIL: You trusted the path. We changed it.
+
+KITTY: But you said turn right!
+
+DEVIL: Growth requires detours.
+
+WHEN YOU WAKE UP TWO MINUTES BEFORE YOUR ALARM
+
+DEVIL: That’s anticipation anxiety.
+
+KITTY: So close to winning…
+
+DEVIL: No winners here.
+
+WHEN A PASSWORD IS “ALMOST” RIGHT
+
+DEVIL: Incorrect password. But you’re close.
+
+KITTY: Why not just let them in?
+
+DEVIL: Security builds character.
+--
+WHEN YOU OPEN THE FRIDGE REPEATEDLY
+
+DEVIL: You’re not looking for food. You’re looking for answers.
+
+KITTY: Do answers live in the fridge?
+
+DEVIL: Not yet.
+
+CLOSING
+
+DEVIL:
+So the next time something small ruins your day—Remember. It wasn’t luck. It wasn’t fate. And it certainly wasn’t an accident.
+
+KITTY: It was planned.
+
+DEVIL: By professionals.
+
+KITTY: And you agreed to it.
+
+DEVIL (smiling): We’ll explain the paperwork later.
+
+KITTY: Is there an opt-out option?
+
+DEVIL: Of course. (beat) It doesn’t work.
+
+--
 Darwin Award
 
-This one happens every winter. Every single winter. Which is wild, because by now carbon monoxide should have its own publicist.
+Alright, this one is pure gold. And by gold, I mean “somebody actually did this and somehow lived to tell the tale.”
 
-This took place during a deep freeze in the US Midwest. The kind of cold where your car makes sounds it has never made before and your soul briefly leaves your body when you open the door.
+In Nigeria, a young man decided he needed some extra protection in life. Not like wearing a helmet, not like paying attention, not like staying away from obviously dangerous situations. No. He went straight to the ultimate confidence booster: a bulletproof charm. A little magical talisman that the local traditional healer guaranteed would stop any bullet cold. Nothing, and I mean nothing, could touch him. Physics? Overrated. Common sense? Optional.
 
-A man decided to go out late at night and warm up his car. Totally normal winter behaviour. Except standing outside while it warms up is miserable, and misery makes people creative in the worst way.
+But here’s where it gets truly spectacular. The man didn’t just buy the charm to feel safe while walking around. Oh no. He needed proof. Hard evidence. A little “let’s see if this works in real life” demonstration. Because nothing screams “I am smart and prepared” like testing magical immunity with a loaded gun.
 
-So he started the car in his garage.
+So he tells his friend, who is apparently either equally optimistic or equally lacking in judgment, to shoot him. Yes, he literally says, “Go ahead, pull the trigger. The charm will save me.”
 
-The garage door was closed.
+And his friend, doing his civic duty to science or maybe just being bad at life, does exactly that.
+--
+Now, spoiler alert: the charm did not work. Shocking, I know. The bullet hit him like a very firm reminder that reality exists, physics is not negotiable, and magical thinking will not protect you from bullets. His mystical confidence? Useless. His investment in mystical protection? Totally worthless. And the universe? Quietly laughing somewhere offstage.
 
-Now in his mind, this was not a bad idea. This was a temporary idea. Just a few minutes. In and out. No problem. Because if there’s one thing carbon monoxide is known for, it’s respecting time limits.
+Here’s the thing that makes it truly Darwin‑esque. He survived. Somehow. Emergency services arrived, patched him up, and probably asked questions like, “Why are you lying on the floor with a bullet in you?” But he lived. And I imagine at some point in the hospital, he realized that maybe, just maybe, standing in front of a gun and trusting a charm was not the most reliable life strategy.
 
-He went back inside, sat down on the couch, and turned on the TV while the car idled away in the garage like a silent little assassin.
+And the healer? Still alive. Probably still selling charms to the next person who thinks bullets are negotiable. Honestly, that guy is winning at life.
 
-Carbon monoxide has no smell, no colour, no drama. It doesn’t kick the door in. It doesn’t announce itself. It just slowly fills the space and makes you feel kind of sleepy, which is extremely rude.
+So the lesson here is simple. If a stranger tells you a charm will make you bulletproof, you have exactly two options. One: don’t buy it. Or two: don’t be the guy who tests it with an actual gun pointed at you. Pick your poison.
 
-A few minutes go by. He starts feeling tired. Heavy. Maybe a little foggy. Which he blames on winter, life, and probably the news.
----
-Then he passes out.
+--
+Fake Origin Stories of the Community
 
-No panic. No warning. Just lights out.
+Hero, Villain alternating.
 
-Meanwhile, outside, a neighbour is walking their dog. Because dogs do not care how cold it is, ever. The neighbour notices something weird. A car running. Garage door closed. Midnight. Vibes are off.
+DivineSlayer420 - They joined “just to check it out” for five minutes. Five hours later, destiny had already made them useful.
 
-This neighbour, and I cannot stress this enough, had carbon monoxide safety training. Which is the only reason this story doesn’t end very differently.
+KiloGQ - They clicked “Join” without reading anything. That was the binding contract.
 
-They call emergency services immediately.
+Giggley - They came for one activity and stayed for the people. The devil still resents this.
 
-First responders force entry, ventilate the house, and drag this man out of his own living room. Doctors later confirm that his carbon monoxide levels were high enough that if he had stayed there a little longer, he would not have woken up.
+Bald Kitty - They arrived with strong opinions and zero context. Balance was lost immediately.
 
-He survived. No lasting physical damage. Just a hospital stay, a headache, and the kind of humiliation that installs multiple carbon monoxide detectors out of pure shame.
+5 Dollar Chips - They believed this place was temporary. Hope proved them wrong.
 
-Fire departments talk about this exact scenario every winter. Not as a rare freak accident. As a greatest hit.
+DutchJones - They joined during a moment of poor impulse control. The devil bookmarked that decision immediately.
 
-So somewhere out there is a man who almost died because he wanted his car to be warm and his feet to be indoors.
+Luna - They asked a simple question. The answer made them indispensable.
 
-Winter does not care about convenience. And carbon monoxide does not care about your plans.
+Vanquish3r - They stayed quiet for far too long. Suspicion grew naturally.
+--
+Arken - They showed up late to the event. Which, according to prophecy, meant they were exactly on time.
 
----
-AI or Not AI
+Bigjon - They said, “What’s the worst that could happen?” The devil took that as a challenge.
 
-1 - AI
-2 - Not AI
-3 - Not AI
-4 - AI
-5 - AI
-6 - Not AI
-7 - AI
-8 - Not AI
-9 - AI
-10 - AI
-11 - Not AI
-12 - AI
-13 - Not AI
-14 - Not AI
-15 - AI
-16 - Not AI
-17 - AI
-18 - AI
-19 - Not AI
-20 - Not AI
+Constantine - They didn’t plan to help anyone. Kindness activated anyway.
 
----
-Things We Pretend Are Normal
+CrypticWoodworker - They laughed at something they absolutely shouldn’t have. The echo never stopped.
 
-Alright, let’s talk about the weird things we all just accept in VR. Things that absolutely would be insane in real life… but here? Totally fine.
+Khalima - They logged in tired, quiet, and disengaged. Heroism occurred without permission.
 
-* Standing inside someone else and calling it “personal space”
-* Jumping five metres in the air with no explanation
-* Teleporting through walls like it’s a casual commute
-* Spinning in circles endlessly because “it feels fun”
-* Sitting on air, pretending it’s a chair
-* Randomly changing avatars mid-conversation
+PandaChef - They forgot to mute their mic once. Chaos followed them into legend.
 
-Ask co-host to name some, then audience.
+WhoDoctorK9  - They tried to leave politely. The community declined.
 
----
+DedZed - They thought they were anonymous. The devil already knew their username.
+
+Staticthreat - They tried to mute their mic during chaos. Instead, they spoke truth and became leadership.
+
+Ghost Droid - They tried to stir drama “just a little.” The devil applauded the effort.
+
+oozyrat - Legends aren’t born—they’re forged in moments like this.
+
+BerryBerryNice - They were never supposed to matter. Which made them extremely dangerous.
+
+--
+Truth Or Be Told
+
+DEVIL:
+Welcome, everyone.
+Tonight’s game is called Truth or Be Told.
+It’s like Truth or Dare…
+but we removed the running, the pressure, and the dignity.
+
+KITTY:
+You’ll get a choice.
+You can tell us a truth yourself…
+or you can let him tell one for you.
+
+DEVIL:
+Either way, something comes out.
+This is a game of mercy.
+No wrong answers. No punishment.
+
+KITTY:
+But if you say “pass”…
+that counts as Be Told.
+
+DEVIL:
+Choose wisely.
+
+--
+Truths 											Dares
+
+*What’s something you pretend doesn’t bother you, but absolutely does?			*Walk like a dramatic villain for five steps, then freeze.
+*When was the last time you almost said too much?					*Do your best exaggerated “I’ve been caught” pose.
+*Who here do you feel most seen by?							*Slowly sneak across the room like you’re in a stealth game.
+*What’s a habit you defend even though you know it’s questionable?			*Strike the most heroic pose you can and hold it for five seconds.
+*What’s something you avoid because you’re afraid you’ll care too much?			*Pretend to trip, recover, and act like nothing happened.
+*What’s the most recent thing you overthought?						*Walk in a small circle like you’re waiting for something important to load.
+*What part of yourself do you only show in spaces like this?				*Do an overly confident finger-gun point at the air.
+*What’s a compliment you secretly didn’t believe?					*Act out “buffering” with your whole body for five seconds.
+*What’s something you’re proud of but rarely talk about?				*Take three stompy steps like you’re making an entrance.
+*What’s the last thing you muted yourself to react to?					*Dramatically clutch your chest like you’ve been emotionally wounded.
+*What’s a pattern you’re actively trying to unlearn?					*Pretend to look for something you dropped — then give up.
+*What’s something you wish people understood about you?					*Do a slow, exaggerated head turn like you just heard gossip.
+*What’s a boundary you learned the hard way?						*Walk backward three steps like you regret moving forward.
+*What’s a role you accidentally fell into here?						*Strike a pose like you’re in a character-select screen.
+*What’s something you miss more than you admit?						*Do the most awkward idle animation you can for five seconds.
+*What’s a decision you keep calling “temporary”?					*Point dramatically at nothing and nod like it explains everything.
+*What’s a fear you’re quieter about now than you used to be?				*Pretend to argue with an invisible person using only gestures.
+*What’s one thing that instantly changes your mood?					*Walk confidently to a spot, stop, then look confused why you’re there.
+*What’s something you’re still figuring out?						*Act like gravity suddenly got heavier for five seconds.
+*What truth do you usually dodge when games like this come up?				*Take a three-step victory lap and bow like the crowd applauded.
+--
+
