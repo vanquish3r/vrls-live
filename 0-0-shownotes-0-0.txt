@@ -1,20 +1,20 @@
-The VR Late Show Episode #91
-January 31st, 2026
+The VR Late Show Episode #92
+February 7th, 2026
 
-=> Opening Act (if any) - 10 mins
+
+=> Opening Video - 5 mins
 => Socials & Picture - 5 mins
-=> Community Spotlight - 5 mins
+=> This Week's Bright Spot - 5 mins
 => National Days - 5 mins
-=> Poker Night Video - 5 mins
 => Heckler Intro - 1 min
-=> Temptation Showcase 5-10mins (AI Generated)
-=> The Devil Explains Modern Life 5-10 mins (AI Generated)
+=> Dumb Facts You Now Know - 5-10 mins
+=> Static & Panda Game Segment - 5-10 mins
 => Game Key Giveaway - 5 mins
 => Darwin Award - 5 mins
-=> Fake Origin Stories of the Community 5-10 mins (Each of us do X amount) 
-=> Game Show of some sort 
-=> Truth or Dare: “Tell or Be Told” - 5-10 mins (AI Generated)
+=> VR-Libs - 5-10 mins
+=> Food For Thought - 5 mins
 => Sell It In A Minute - 5 mins
+=> Fortnite Video - 5-10 mins
 => Statics Hot Take - 5 mins
 => Game Key Giveaway - 5 mins
 => Virtual Prizes - 5 mins
@@ -24,559 +24,138 @@ January 31st, 2026
 
 1
 ---
+
 Game Key Winners
 
-Kaymerd, Oozyrat, Nystx, CrypticWoodworker, 5dollarchips, Bigjon, Tuna, Simon, zephii, lostxfam, Divine, Vanquish3r (Kilo), Slinky, ScabVendor, zonti, captndan, FireBee, BennyBoy, Kage, Grimevil, BeeMoQ, Ghostdroid, FireRat, CeeCee, Pandachef, WhoDoctorK9, jifskip, Bronina, DutchJones, Giggley, Mexicansc f215, mentalgerm, Dogsdance123, deaval, bagenius, blakkbyrd
+Kaymerd, Oozyrat, Nystx, CrypticWoodworker, 5dollarchips, Bigjon, Tuna, Simon, zephii, lostxfam, Divine, Vanquish3r (Kilo), Slinky, ScabVendor, zonti, captndan, FireBee, BennyBoy, Kage, Grimevil, BeeMoQ, Ghostdroid, FireRat, CeeCee, Pandachef, WhoDoctorK9, jifskip, Bronina, DutchJones, Giggley, Mexicansc f215, mentalgerm, Dogsdance123, deaval, panpan, capt ren, blakkbyrd, bagenius  
 
 2
 ---
-This week’s bright spot is Bigjon.
+National Days
 
-Bigjon has been doing something genuinely impressive behind the scenes. He jumped headfirst into learning Unity to build for Banter first, then took those skills and expanded into VRChat, along with avatar work and full-on asset creation. None of this was familiar ground for him at the start. This was a completely new skill set, and he took it on anyway, step by step, problem by problem, and stuck with it.
+*National Play Outside Day
+Go outside and remember what sunlight feels like. Bonus points if you survive without yelling at a bug or questioning your life choices.
 
-What really stands out is how fast he didn’t just learn, but leveled up. He’s gone from learning the basics to actually understanding the systems, troubleshooting, building cleanly, and creating things that other people want to use. He’s already releasing his own assets into the world, making them available to the community, and someone has already purchased one. That’s not a hypothetical win. That’s real proof that his work has value.
+*National Ice Cream For Breakfast Day
+Cereal is boring and morally questionable. Ice cream is rebellion, dessert, and breakfast all rolled into one glorious scoop.
 
-And instead of keeping that momentum to himself, he’s become someone people trust. People are actively reaching out to him, asking questions, booking time with him, and wanting him to teach them because he knows his stuff and explains it well. That shift from learner to mentor does not happen by accident. It happens because someone puts in the time and earns that respect.
+*National Periodic Table Day
+Celebrate 118 tiny boxes of elements that somehow explain everything except why your plants keep dying.
 
-What we’re seeing here feels like the beginning of something much bigger. Bigjon is building real, transferable skills, building confidence, building a reputation, and opening the door to making money doing creative work in VR. This is the kind of path where you look back in a year and go, “That’s where it started.”
+*National Fettuccine Alfredo Day
+Noodles swimming in so much cheese you might need a lifeboat. Eat like no one’s watching and pretend calories are a myth invented by sad people.
 
-Bigjon, you should be incredibly proud of what you’ve accomplished already, and we’re all excited to see where you take this next. This is absolutely a win worth celebrating.
+*National Send A Card To A Friend Day
+Yes, actual paper. Yes, with a stamp. Pretend it’s 1999 and shock them with your effort.
 
 3
 ---
-National Days
+This Week's Bright Spot
 
-*National Dark Chocolate Day
-The day we celebrate the slightly bitter hero that makes life sweet… and makes you feel fancy eating it straight from the bar.
+Alright, it’s time for This Week’s Bright Spot and I genuinely love this one.
+A few days ago, Divine popped into chat practically vibrating with excitement. “I have somewhat of a job interview tomorrow. I’m so excited.” You could feel it through the screen. Not nervous. Not doubtful. Excited. That kind of energy where you’ve already decided you’re going to show up and swing big.
 
-*National Texas Day
-Everything’s bigger today: the hats, the steaks, and the chances you’ll accidentally say “y’all” at least three times.
+And then she shared her proposal.
 
-*National Get Up Day
-Rise and shine! Or, you know… roll over once, stretch, and still call it participation.
+Not just “hire me, I’m cool.” No. She came in with a full plan. Structured. Thought out. Clear strategy. She identified a problem, offered a solution, broke down the costs, explained the logistics, even built in tracking for measurable results. She talked about local advertising, real foot traffic, boots on the ground effort. She factored in printing costs. She mapped out distribution. She set a fair daily rate. She even suggested a trial run to prove effectiveness.
 
-*National Baked Alaska Day
-Ice cream and fire, together at last. A dessert that screams “I have no idea what I’m doing, but it looks cool.”
+That’s not just someone looking for a job. That’s someone thinking like a business owner.
 
-*National Serpent Day
-A day to appreciate snakes: slithery, sneaky, and the only creatures who can judge you silently without ever making eye contact.
+And then the next day?
 
-*National Freedom Day
-A day to honour the power to speak, act, and live with dignity. It is a reminder that freedom must be defended, valued, and never taken for granted.
+“I got the job.”
+
+Just like that.
+
+But let’s pause there for a second, because that didn’t happen “just like that.” That happened because she took initiative. She didn’t wait to be told what to do. She didn’t shrink herself. She didn’t undersell her value. She walked in with a plan, confidence, and a clear understanding of what she brings to the table.
+
+That’s growth.
+
+For those of us who’ve known Divine from her Altspace days to Banter, we already know she’s creative. We already know she’s bold. We already know she’s got that red and black chaos energy with springs for limbs and a brain that never stops moving. But this right here? This is that creativity being channelled into real world momentum.
+
+She saw an opportunity and built a blueprint around it.
+
+And the best part is this is only the beginning. She even said she’d explain more later about what she’ll be doing. That means there’s more to come. This isn’t a one off win. This is a stepping stone.
+
+So this week’s Bright Spot goes to Divine for betting on herself, doing the work, and turning excitement into action.
+
+You love to see it.
+
+Let’s celebrate that kind of energy.
 
 4
 ---
+Dumb Facts
 
-Temptation Showcase
+Panda - Bananas are berries, but strawberries aren’t.
 
-DEVIL:
-Welcome… welcome.
-Relax. You’re safe here.
-I’m not here to judge you.
-That would be hypocritical.
-I’m here to offer temptations.
-You decide whether you’d give in…
-—or whether you’d like to lie to yourself creatively.
-Take your time.
-I have eternity.
+kitty - Octopuses have three hearts and blue blood.
 
-KITTY:
-And I’m just here to read the ones
-you pretend don’t apply to you.
+P - Sharks existed before trees existed
+
+k - A day on Venus is longer than a year on Venus. A day on Venus drags on for 243 Earth days, but somehow it still races around the Sun in only 225, which means Venus is basically late to its own birthday party.
+
+P - Cows have best friends and get stressed when separated.
+
+k - Honey never spoils. Archaeologists have eaten 3000 year old honey and lived to tell the tale.
+
+P - You’re slightly taller in the morning than at night.
+
+k - Wombat poop is cube shaped.
+
+P - Sea otters hold hands while sleeping so they don’t drift apart 
+
+k - There are more stars in the universe than grains of sand on all Earth’s beaches.
+
+P - Humans share about 60% of DNA with bananas. You and a smoothie are basically cousins
+
+k - A group of flamingos is called a flamboyance.
+
+P - Scotland has 421 words for snow.
+
+k - Some turtles can breathe through their butts.
+
+P - Lobsters taste with their legs. - Butterflies can taste with their feet 
+
+k - The Eiffel Tower can grow more than 6 inches in summer heat.
+
+P - Some cats are allergic to humans
+
+k - Crows can recognise human faces and hold grudges.
+
+P - The longest hiccup attack lasted 68 years.
+
+k - Water can boil and freeze at the same time under the right pressure (it’s called the triple point).
 
 5
 ---
+Darwin Award
 
-1. “Just One More Episode” — DEVIL
-DEVIL:
-You said last one.
-Then the screen skipped the credits.
-Do you stop it…
-or trust autoplay more than yourself?
+Okay, gather around for a love story that goes spectacularly sideways in a very real, very Darwin-esque way. This one is officially an honorable mention because nobody died, but oh boy, it was close enough to qualify for a Darwin Award if you squint.
 
-2. The Snooze Button — KITTY
-KITTY:
-The alarm goes off.
-You are technically alive.
-Do you get up like an adult…
-or negotiate five more minutes like it’s a hostage situation?
+A couple decided to celebrate their anniversary by building a heart-shaped fire pit. Romantic, artistic, the kind of couple goals you see in Pinterest boards. They probably imagined a soft glow, a cozy night, maybe roasting marshmallows and whispering sweet nothings.
 
-3. The Late-Night Snack — DEVIL
-DEVIL:
-You are not hungry.
-You are bored and emotionally curious.
-Do you stay in bed…
-or let the kitchen decide your fate?
+What they did not imagine was physics, chemistry, or fire safety. They built it out of untreated wood logs and some old random flammable materials they had lying around. Basically, it was a ticking pyro-romance time bomb.
 
-4. Reading the Message and Not Replying — KITTY
-KITTY:
-You saw it.
-They know you saw it.
-Do you answer now…
-or pretend you were “busy” for six hours?
+So they lit it. And then reality happened. The heart-shaped fire pit flared into a fireball that was not subtle. Eyebrows singed. Patio furniture melted. Car alarms in the neighborhood went off like the fire gods were live-tweeting the event. Firefighters arrived because apparently, in addition to romance, they wanted a little drama.
+
+And yet, somehow, they both survived. Walked away. Slightly singed, probably a little smoky, but alive. And with a brand-new appreciation for what “flammable” actually means.
+
+The love lesson here? Hearts should be metaphorical, not literal bonfires. A romantic gesture that lights up the night is charming. A fire that might actually destroy your house is not charming. And if you’re ever tempted to combine love, fire, and DIY projects, maybe don’t. Just maybe buy a candle and call it a day.
 
 6
 ---
-5. Checking Their Profile — DEVIL
-DEVIL:
-You’re over them.
-Completely healed.
-So why is their profile one click away?
-Do you close the app…
-or emotionally investigate?
+VR-Libs
 
-6. Correcting Someone Online — KITTY
-KITTY:
-They’re wrong.
-Like… confidently wrong.
-Do you scroll past in peace…
-or type “actually” and ruin your evening?
+Yesterday, I queued into Fortnite with PandaChef, Staticthreat, and BigJon, ready for a [ADJECTIVE] battle royale. We dropped into [LOCATION], and the first thing we saw was [PLURAL NOUN] falling from the sky like they were on a [SILLY VEHICLE].
 
-7. Talking Shit — Just a Little — DEVIL
-DEVIL:
-You promised you wouldn’t gossip.
-But someone brought them up.
-Do you stay neutral…
-or add one harmless detail?
+Suddenly, Slinky grabbed a [WEAPON] and started [VERB ENDING IN -ING] anyone who came near, while Razor tried to build a [ADJECTIVE] fort out of [PLURAL NOUN], which immediately collapsed because Vanquish3r threw a [FUNNY OBJECT] at it for “fun.”
 
+Out of nowhere, CapTnDan shouted, “Watch out for the [MYTHICAL CREATURE]!” and we all [VERB] straight into the storm. DutchJones somehow got eliminated by WhoDoctorK9, who was hiding inside a [NOUN], while Kaymerd tried to distract enemies by [SILLY ACTION], causing everyone to [EMOTION] uncontrollably.
 
-8. The DM You Shouldn’t Send — KITTY
-KITTY:
-It’s late.
-You’re feeling bold for no reason.
-The message is typed.
-Do you delete it…
-or press send and blame the vibes?
+Meanwhile, Patch was sneaking around, collecting [PLURAL NOUN], but tripped over a [OBJECT] and accidentally launched [PLURAL NOUN] across the map. PandaChef laughed so hard they [VERB], which made Staticthreat spill their [BEVERAGE] all over the [PLURAL NOUN].
+
+Finally, after [NUMBER] minutes of total chaos, BigJon landed the final [ADJECTIVE] shot, scoring the Victory Royale. We celebrated by [VERB ENDING IN -ING], then [SILLY ACTION], and finally [VERB] into a pile of [PLURAL NOUN] because honestly, that’s just how a Fortnite squad rolls.
 
 7
 ---
-9. Calling Out of Work — DEVIL
-DEVIL:
-You could go in.
-You should go in.
-But your soul feels fragile.
-Do you show up…
-or suddenly develop a cough?
-
-10. Retail Therapy — KITTY
-KITTY:
-You don’t need it.
-You absolutely don’t.
-But it is on sale.
-Do you save money…
-or heal yourself with free shipping?
-
-11. Pretending You’re Fine — DEVIL
-DEVIL:
-Someone asks, “How are you?”
-They don’t want the truth.
-Do you say “I’m good”…
-or emotionally overshare anyway?
-
-12. Staying Silent in an Argument — KITTY
-KITTY:
-You have the perfect comeback.
-It would end them.
-Do you choose peace…
-or violence with vocabulary?
-
-8
----
-13. One More Drink — DEVIL
-DEVIL:
-You’re already relaxed.
-You don’t need another.
-But the glass is half empty.
-Do you stop…
-or commit to the bit?
-
-14. The Mute Button — KITTY
-KITTY:
-Someone is explaining something you already know.
-Do you listen politely…
-or mute them with intention?
-
-15. Turning the Camera Off — DEVIL
-DEVIL:
-You’re technically present.
-But not spiritually engaged.
-Do you stay visible…
-or disappear quietly?
-
-16. Not Reading the Instructions — KITTY
-KITTY:
-You could read them.
-But you feel like you get it.
-Do you double-check…
-or wing it confidently?
-
-9
----
-17. Staying in the Comment Section — DEVIL
-DEVIL:
-You meant to scroll past.
-Now you’re invested.
-Do you leave peacefully…
-or keep reading terrible opinions?
-
-18. Ignoring the Red Flag — KITTY
-KITTY:
-You saw it.
-You clocked it immediately.
-Do you address it…
-or call it a “quirk”?
-
-19. “I’ll Start Tomorrow” — DEVIL
-DEVIL:
-You’re motivated.
-Just not today.
-Do you begin now…
-or let future you suffer?
-
-20. Staying Up Way Too Late — KITTY
-KITTY:
-Tomorrow matters. 
-Sleep is important.
-But the night feels productive.
-Do you log off responsibly…
-or greet tomorrow exhausted and defiant?
-
-10
----
-DEVIL: Interesting choices. Some of you were honest. Some of you were… hopeful. Temptation doesn’t make you weak. It simply reveals who you are… when you think no one’s watching.
-
-KITTY:
-Sleep well tonight.
-
-DEVIL (smirking): I’ll see you tomorrow… when you hit snooze
-
-11
----
-The Devil Explains Modern Life
-
-DEVIL: People keep asking the same question. “Why does this keep happening to me?” And I find that adorable.
-
-KITTY: They really think it’s an accident.
-
-DEVIL: Nothing is random. Nothing is accidental. And yes—you agreed to this.
-
-KITTY: I don’t remember signing anything.
-
-DEVIL: You never do. Let me explain.
-
-12
----
-PARKING TICKETS
-
-DEVIL:
-Parking tickets aren’t about rules. They’re about mortality. A brightly colored reminder that time passed… and you misjudged it.
-
-KITTY: So it’s not about the meter?
-
-DEVIL: No. It’s about the dread you felt walking back to your car.
-
-TECHNOLOGY FAILING AT THE WORST MOMENT
-
-DEVIL: Your internet disconnecting right before the meeting ends? Character development.
-
-KITTY: What about when the mic cuts out right when you finally talk?
-
-DEVIL: Confidence calibration.
-
-ALMOST SUCCEEDING — THEN FAILING
-
-DEVIL: Being this close to success before everything collapses? A classic infernal flourish.
-
-KITTY: You let them see it first?
-
-DEVIL: Of course. Hope sharpens the lesson.
-
-13
----
-AUTOCORRECT BETRAYING YOU
-
-DEVIL: You typed the right thing. Autocorrect changed it anyway. Humility.
-
-KITTY:You made them send that?
-
-DEVIL: They’ll laugh about it eventually.
-
-WAITING ON HOLD FOREVER
-
-DEVIL: You’re not waiting for a representative. They’re waiting for you to sigh loudly.
-
-KITTY: Is that why the music loops?
-
-DEVIL: Exactly.
-
-EVERYTHING BREAKING AT ONCE
-
-DEVIL: Your car. Your phone. Your plans. All in the same week. Batch processing.
-
-KITTY: That feels excessive.
-
-DEVIL: Efficient.
-
-14
----
-THE “ARE YOU SURE?” PROMPT
-
-DEVIL: Every device that asks, “Are you sure?” already knows the answer.
-
-KITTY: Then why ask?
-
-DEVIL: We enjoy the pause.
-
-THE UPDATE YOU DIDN’T ASK FOR
-
-DEVIL: Nothing was wrong. Now everything looks different and the button moved.
-
-KITTY: That’s cruel.
-
-DEVIL: Adaptive cruelty.
-
-LOSING THINGS YOU JUST HAD
-
-DEVIL: Your keys. Your phone. Your train of thought. You just had them.
-
-KITTY: Where did they go?
-
-DEVIL: Somewhere instructional.
-
-15
----
-MEETINGS THAT COULD HAVE BEEN EMAILS
-
-DEVIL: These exist to drain hope in safe, measured doses.
-
-KITTY: What if we cancel them?
-
-DEVIL: People start dreaming.
-
-WHEN YOU HIT “REPLY ALL” BY ACCIDENT
-
-DEVIL:
-That’s not a mistake. That’s accountability roulette.
-
-KITTY: Why does it always happen at work?
-
-DEVIL: Community building.
-
-16
----
-WHEN THE GPS RE-ROUTES AT THE LAST SECOND
-
-DEVIL: You trusted the path. We changed it.
-
-KITTY: But you said turn right!
-
-DEVIL: Growth requires detours.
-
-WHEN YOU WAKE UP TWO MINUTES BEFORE YOUR ALARM
-
-DEVIL: That’s anticipation anxiety.
-
-KITTY: So close to winning…
-
-DEVIL: No winners here.
-
-WHEN A PASSWORD IS “ALMOST” RIGHT
-
-DEVIL: Incorrect password. But you’re close.
-
-KITTY: Why not just let them in?
-
-DEVIL: Security builds character.
-
-17
----
-WHEN YOU OPEN THE FRIDGE REPEATEDLY
-
-DEVIL: You’re not looking for food. You’re looking for answers.
-
-KITTY: Do answers live in the fridge?
-
-DEVIL: Not yet.
-
-CLOSING
-
-DEVIL:
-So the next time something small ruins your day—Remember. It wasn’t luck. It wasn’t fate. And it certainly wasn’t an accident.
-
-KITTY: It was planned.
-
-DEVIL: By professionals.
-
-KITTY: And you agreed to it.
-
-DEVIL (smiling): We’ll explain the paperwork later.
-
-KITTY: Is there an opt-out option?
-
-DEVIL: Of course. (beat) It doesn’t work.
-
-18
----
-Darwin Award
-
-Alright, this one is pure gold. And by gold, I mean “somebody actually did this and somehow lived to tell the tale.”
-
-In Nigeria, a young man decided he needed some extra protection in life. Not like wearing a helmet, not like paying attention, not like staying away from obviously dangerous situations. No. He went straight to the ultimate confidence booster: a bulletproof charm. A little magical talisman that the local traditional healer guaranteed would stop any bullet cold. Nothing, and I mean nothing, could touch him. Physics? Overrated. Common sense? Optional.
-
-But here’s where it gets truly spectacular. The man didn’t just buy the charm to feel safe while walking around. Oh no. He needed proof. Hard evidence. A little “let’s see if this works in real life” demonstration. Because nothing screams “I am smart and prepared” like testing magical immunity with a loaded gun.
-
-So he tells his friend, who is apparently either equally optimistic or equally lacking in judgment, to shoot him. Yes, he literally says, “Go ahead, pull the trigger. The charm will save me.”
-
-And his friend, doing his civic duty to science or maybe just being bad at life, does exactly that.
-
-19
----
-Now, spoiler alert: the charm did not work. Shocking, I know. The bullet hit him like a very firm reminder that reality exists, physics is not negotiable, and magical thinking will not protect you from bullets. His mystical confidence? Useless. His investment in mystical protection? Totally worthless. And the universe? Quietly laughing somewhere offstage.
-
-Here’s the thing that makes it truly Darwin‑esque. He survived. Somehow. Emergency services arrived, patched him up, and probably asked questions like, “Why are you lying on the floor with a bullet in you?” But he lived. And I imagine at some point in the hospital, he realized that maybe, just maybe, standing in front of a gun and trusting a charm was not the most reliable life strategy.
-
-And the healer? Still alive. Probably still selling charms to the next person who thinks bullets are negotiable. Honestly, that guy is winning at life.
-
-So the lesson here is simple. If a stranger tells you a charm will make you bulletproof, you have exactly two options. One: don’t buy it. Or two: don’t be the guy who tests it with an actual gun pointed at you. Pick your poison.
-
-20
----
-Fake Origin Stories of the Community
-
-Hero, Villain alternating.
-
-DivineSlayer420 - They joined “just to check it out” for five minutes. Five hours later, destiny had already made them useful.
-
-KiloGQ - They clicked “Join” without reading anything. That was the binding contract.
-
-Giggley - They came for one activity and stayed for the people. The devil still resents this.
-
-Bald Kitty - They arrived with strong opinions and zero context. Balance was lost immediately.
-
-5 Dollar Chips - They believed this place was temporary. Hope proved them wrong.
-
-DutchJones - They joined during a moment of poor impulse control. The devil bookmarked that decision immediately.
-
-Luna - They asked a simple question. The answer made them indispensable.
-
-Vanquish3r - They stayed quiet for far too long. Suspicion grew naturally.
-
-21
----
-Arken - They showed up late to the event. Which, according to prophecy, meant they were exactly on time.
-
-Bigjon - They said, “What’s the worst that could happen?” The devil took that as a challenge.
-
-Constantine - They didn’t plan to help anyone. Kindness activated anyway.
-
-CrypticWoodworker - They laughed at something they absolutely shouldn’t have. The echo never stopped.
-
-Khalima - They logged in tired, quiet, and disengaged. Heroism occurred without permission.
-
-PandaChef - They forgot to mute their mic once. Chaos followed them into legend.
-
-WhoDoctorK9  - They tried to leave politely. The community declined.
-
-DedZed - They thought they were anonymous. The devil already knew their username.
-
-Staticthreat - They tried to mute their mic during chaos. Instead, they spoke truth and became leadership.
-
-Ghost Droid - They tried to stir drama “just a little.” The devil applauded the effort.
-
-oozyrat - Legends aren’t born—they’re forged in moments like this.
-
-BerryBerryNice - They were never supposed to matter. Which made them extremely dangerous.
-
-22
----
-Truth Or Be Told
-
-DEVIL:
-Welcome, everyone.
-Tonight’s game is called Truth or Be Told.
-It’s like Truth or Dare…
-but we removed the running, the pressure, and the dignity.
-
-KITTY:
-You’ll get a choice.
-You can tell us a truth yourself…
-or you can let him tell one for you.
-
-DEVIL:
-Either way, something comes out.
-This is a game of mercy.
-No wrong answers. No punishment.
-
-KITTY:
-But if you say “pass”…
-that counts as Be Told.
-
-DEVIL:
-Choose wisely.
-
-23
----
-Truths 											
-
-*What’s something you pretend doesn’t bother you, but absolutely does?			
-*When was the last time you almost said too much?					
-*Who here do you feel most seen by?							
-*What’s a habit you defend even though you know it’s questionable?			
-*What’s something you avoid because you’re afraid you’ll care too much?			
-*What’s the most recent thing you overthought?						
-*What part of yourself do you only show in spaces like this?				
-*What’s a compliment you secretly didn’t believe?					
-*What’s something you’re proud of but rarely talk about?				
-*What’s the last thing you muted yourself to react to?					
-*What’s a pattern you’re actively trying to unlearn?					
-*What’s something you wish people understood about you?					
-*What’s a boundary you learned the hard way?						
-*What’s a role you accidentally fell into here?						
-*What’s something you miss more than you admit?						
-*What’s a decision you keep calling “temporary”?					
-*What’s a fear you’re quieter about now than you used to be?				
-*What’s one thing that instantly changes your mood?					
-*What’s something you’re still figuring out?						
-*What truth do you usually dodge when games like this come up?				
-
-24
----
-Dares
-
-*Walk like a dramatic villain for five steps, then freeze.
-*Do your best exaggerated “I’ve been caught” pose.
-*Slowly sneak across the room like you’re in a stealth game. 
-*Strike the most heroic pose you can and hold it for five seconds.
-*Pretend to trip, recover, and act like nothing happened.
-*Walk in a small circle like you’re waiting for something important to load.
-*Do an overly confident finger-gun point at the air.
-*Act out “buffering” with your whole body for five seconds.
-*Take three stompy steps like you’re making an entrance.
-*Dramatically clutch your chest like you’ve been emotionally wounded.
-*Pretend to look for something you dropped — then give up.
-*Do a slow, exaggerated head turn like you just heard gossip.
-*Walk backward three steps like you regret moving forward.
-*Strike a pose like you’re in a character-select screen.
-*Do the most awkward idle animation you can for five seconds.
-*Point dramatically at nothing and nod like it explains everything.
-*Pretend to argue with an invisible person using only gestures.
-*Walk confidently to a spot, stop, then look confused why you’re there.
-*Act like gravity suddenly got heavier for five seconds.
-*Take a three-step victory lap and bow like the crowd applauded.
-
-25 - END
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
