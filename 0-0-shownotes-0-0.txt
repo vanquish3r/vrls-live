@@ -248,13 +248,11 @@ k (No, really, anywhere is fine… if you want me to cry in the parking lot.)
 D - Scientists now confirm that no matter how advanced AI becomes… it still asks, “Did that answer your question?”
 
 k (Thanks, AI, nothing says progress like passive-aggressive reassurance.)
+
 ---
+Encrypted isn’t just a group, it’s a place where people come together to have fun, connect, and really feel part of something genuine. We care about each other, we celebrate each other’s wins, and we support and are there for each other through the lows too. We’re all about creating a space where friends can hang out, laugh, explore, and enjoy what we’re doing together, knowing there’s always someone in your corner to share the moment with or just offer a little support when it’s needed.
 
-Encrypted isn’t just a group, it’s a place where people come together to have fun, connect, and really feel part of something genuine. We care about each other, we celebrate each other’s wins, and we support each other through the lows too. We’re all about creating a space where friends can hang out, laugh, explore, and enjoy what we’re doing together, knowing there’s always someone in your corner.
-
-Our events are a big part of that, but they’re only one piece of the puzzle. They give us a reason to gather, a structure to share experiences, and a way to make memories together, but what really makes this community special is the connection, support, and care that flows between everyone every day.
-
-Every Saturday at 7pm EST, Game Time with Panda Chef brings people together for laughs, challenges, and pure fun gameplay. On Saturday and Sunday mornings, CapTnDan’s Cartoons & Anime gives us a chance to start the day with nostalgia and epic stories. Music Movie Mondays with BigJon now starts at 8pm EST, and this week we’re watching Springsteen: Deliver Me from Nowhere. Each month has a theme, and everyone in Discord gets to vote on what movies we’ll watch, so it’s always a community-driven experience.
+Our events are a big part of that, but they’re only one piece of the puzzle. They give us a reason to gather, both a structure and chance to share experiences, as well as a way to make memories together. But the heart of Encrypted is in the community. The connection, the care, and the way we look out for one another every day. It’s in the little jokes, the shared adventures, the encouragement when someone tries something new, and the way we make sure everyone feels welcome, included, and valued every day.
 ---
 We’re always looking to explore more. Portals Unknown will be moving to a different day and extending to a 2-hour event so people can dig deeper into new worlds, adventures, and experiences while having more time to enjoy it with friends. Midweek, Kay’s Play Places with Kaymerd and CapTnDan’s Infernal Gauntlet give us a mix of creative challenges and fun, keeping the week lively. Fridays bring music and social nights with Timeless Tunes Karaoke, followed by themed group nights at 10pm EST with poker, bowling, casino nights, decade nights, genre nights, and more. Plus, our monthly Throwback Theater gives everyone a chance to share laughs and nostalgia together.
 
@@ -262,3 +260,12 @@ What makes Encrypted special isn’t just the events, it’s the way we carry th
 
 We’re also running events in Banter, and the lineup is always changing, so keep an eye out there if you want to join in on more fun across other platforms. Encrypted isn’t just a group, it’s a community, and there’s a spot here for anyone who wants to connect, have fun, and be part of something real with friends who genuinely care. We’re here to support each other, share laughs, and make sure everyone feels welcome, included, and valued.
 ---
+ScreenShare.ing
+
+Hey everyone, I’ve got some exciting news about what Vanquish3r has been working on for VRChat. He’s just launched the open beta of ScreenShare.ing, a low-latency screencasting tool that lets you stream your browser, desktop, or even your VR view directly into VRChat with almost no lag.
+
+The cool part is, it’s free to use for 30 minutes a day, so you can jump in and try it out. If you want extra time or some bonus features, there are paid tiers available through Patreon. Any world with a video player should be compatible in a private instance, which means streaming videos, music, or games into VRChat is about to get a whole lot easier and more fun. Currently it will also work in public instances of The VR Late Show, Zephiiz CannaChatter and Sector 404.
+
+And speaking of games, Vanquish3r is planning to host Jackbox games in VRChat soon, so you’ll be able to play along with friends right inside the world. It’s all about making events, game nights, and hanging out in VR more seamless and interactive.
+
+It’s a super cool tool that’s just getting started, and we can’t wait to see what everyone does with it.
