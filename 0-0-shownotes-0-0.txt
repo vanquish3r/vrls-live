@@ -262,7 +262,7 @@ We’re also running events in Banter, and the lineup is always changing, so kee
 ---
 ScreenShare.ing
 
-Hey everyone, I’ve got some exciting news about what Vanquish3r has been working on for VRChat. He’s just launched the open beta of ScreenShare.ing, a low-latency screencasting tool that lets you stream your browser, desktop, or even your VR view directly into VRChat with almost no lag.
+Hey everyone, I’ve got some exciting news about what Vanquish3r has been working on for VRChat. He’s just launched the open beta of ScreenShare.ing, a low-latency screencasting tool that lets you stream your browser, desktop, or even your VR view directly into VRChat with almost no lag if using PC-only, Quest & PC compatible link is about 10-15 seconds delay, due to VRC limitation.
 
 The cool part is, it’s free to use for 30 minutes a day, so you can jump in and try it out. If you want extra time or some bonus features, there are paid tiers available through Patreon. Any world with a video player should be compatible in a private instance, which means streaming videos, music, or games into VRChat is about to get a whole lot easier and more fun. Currently it will also work in public instances of The VR Late Show, Zephiiz CannaChatter and Sector 404.
 
