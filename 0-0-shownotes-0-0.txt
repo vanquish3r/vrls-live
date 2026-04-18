@@ -78,6 +78,10 @@ Is the middle seat automatically the worst seat
 k - Yes: No armrest rights, no escape
 D - No: At least you’re not stuck against the window or aisle traffic
 
+Is hitting snooze worth it
+D - Yes: Those extra minutes feel amazing
+k - No: It just makes waking up worse
+
 ---
 Darwin Award
 
