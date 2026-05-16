@@ -1,17 +1,17 @@
-The VR Late Show Episode #99.5
-May 2nd, 2026
+The VR Late Show Episode #100
+May 16th, 2026
 
 => Host intros - 1 min
 => Socials & Picture - 5 mins
 => Bright Spot - 5 mins
 => National Days - 5 mins
 => Heckler Intro - 1 min
-=> Sith Resources Department - 10 mins
-=> This Week in the Galaxy - 5-10 mins
+=> CaptnDan’s VR Vibe Violations - 5-10 mins
+=> Video by kitty - 5 mins
 => Darwin Award - 5 mins
-=> Star Wars Trivia - 10-15 mins
+=> Roast - 30 mins
 => Sell It In A Minute - 5 mins
-=> Alien Races - 5-10 mins
+=> Thank You Notes - 5 mins
 => Statics Hot Take - 5 mins
 => Virtual Prizes - 5 mins
 => Picture
@@ -21,286 +21,176 @@ May 2nd, 2026
 ---
 Bright Spot
 
-Tonight I want to take a moment to recognize someone who has been part of this community for a long time, someone whose presence might be a little quieter, but whose impact is anything but, and that’s WhoDoctorK9.
+Tonight’s Bright Spot is a little different, because this one isn’t about one person. It’s about the people who make this show what it is.
 
-There’s a steady, grounded energy about him that you come to appreciate more the longer you know him. He doesn’t need to be loud to be felt. He doesn’t need to take up space to make a difference. He just shows up, consistently, and that kind of reliability is something you don’t always notice right away, but it’s something you end up valuing a lot.
+The VR Late Show may have a few of us up front holding mics, making jokes, and pretending we know exactly what we’re doing, but it has never been just about the people on stage. It has always been a whole weird, wonderful machine held together by people who show up, help out, build things, run things, fix things, hype things, stream things, clip things, and occasionally tolerate mildly unhinged ideas with the kind of patience usually reserved for kindergarten teachers and hostage negotiators.
 
-He’s one of those people who leads with kindness. The kind of kindness that isn’t about being seen, it’s just who he is. Supportive, thoughtful, compassionate. The kind of person who would absolutely be there if someone needed help, no questions asked. And even when he’s not right in the centre of things, you know he’s there, paying attention, taking it in, and quietly being part of what makes this space feel safe and welcoming.
+So tonight, before anything else, I want to say thank you.
 
-There’s also a quiet strength to him that deserves recognition. The way he shows up for his family, the way he carries himself, the way he commits to the people in his life, it speaks to someone who puts real effort into what matters. That kind of dedication doesn’t always get the spotlight, but it’s one of the most meaningful things a person can offer. It’s the kind of strength that builds stability for others.
+Static, thank you for being one of the steady forces behind this show. You’ve been part of the structure, the planning, the problem-solving, and the overall madness that helps keep this thing moving. Every show needs people who can be counted on, who understand the rhythm of what we’re building, and who help make the chaos feel like it has a purpose. You are absolutely one of those people.
+
+Vanquish3r, thank you for being the man behind the curtain. You created and maintain the space this show runs in, and on show nights, you’re the one in the production booth making the magic happen. You hit the buttons, trigger the moments, play the videos, handle the moving parts, and somehow make everything look smooth while the rest of us are out front acting like this is all effortless. So much of what people experience during the show exists because of your work, your time, and your attention to detail.
 ---
-And while he might sometimes hang back on the edges, he’s never disconnected. He’s part of the heartbeat of this community. Someone we see, someone we appreciate, and honestly, someone we’d always love to have step in a little more because what he brings matters. His voice, his presence, his perspective, it all adds something valuable.
+And now, for the co-hosts.
 
-He’s also just genuinely great to be around. Whether it’s gaming, hanging out, or just being in the same space, he adds to the experience. There’s an ease to him, a calm, steady vibe that balances things out and makes people feel comfortable.
+Bigjon, you bring the music, the energy, the voice, and the kind of personality that wakes up an entire room. You’re also there as backup when needed for streaming, because apparently just being loud, funny, and entertaining wasn’t enough responsibility. You bring life to the show in such a Bigjon way, and honestly, there is no substitute for that.
 
-And beyond all of that, he’s someone who represents care in a very real way. The kind of person who supports not just in words, but in how he lives his life. Someone who shows up for the people he loves, someone who stands by them, someone who creates a space where others can feel accepted and valued.
+DutchJones, you bring steady support, humour, creativity, and follow-through, which is a very dangerous combination because it means we keep giving you jobs. You’ve stepped up with streaming, you’re taking over the Instagram page, and you continue to help the show grow beyond just what happens in the room. The show is better because of everything you bring to it.
 
-WhoDoctorK9, you might not always be front and centre, but that doesn’t make your impact any smaller. In a lot of ways, it makes it stronger. You bring consistency, kindness, strength, and heart into this space, and that matters more than you probably realize.
+CaptnDan, you bring creativity, humour, and that welcoming energy that makes people feel like they’re part of the room from the start. Whether you’re on mic, helping behind the scenes, sharing streaming duties, jumping into bits, or just adding your own unmistakable flavour to the madness, you make the show stronger and more fun.
 
-You’re appreciated, you’re respected, and this community is better because you’re part of it.
+Kilo, you bring your own presence, support, and personality to the show. Every person on that stage adds something different, and you are part of what gives the show its rhythm and variety. You show up, you get involved, and you help make the whole thing feel less like a performance and more like a group of friends making something together in real time.
+---
+Slinky, you bring that willingness to jump into whatever ridiculous thing we’re doing next. There’s a special kind of person who can look at this show, with all its chaos, segments, jokes, and occasional questionable decisions, and say, “Yes, I would like to be part of that.” We appreciate that deeply, and possibly worry about your judgment, but mostly appreciate it.
+
+Pandachef, you bring warmth, humour, and a sense of fun, while also serving as my own personal troll. Every show needs someone who can bring good energy while also keeping me humble, and you seem deeply committed to both jobs. You help make the space feel welcoming, playful, and alive, and that matters more than you probably realize.
+
+Honorable mentions to: Metavoice, Waffleman, IrishDuchess, Deadpool, Bronina, MentalGerm/Echo, Draculus.
+
+DivineSlayer, thank you for creating the custom song prizes each week. That is such a unique and personal contribution to the show, and it gives people something they can win that isn’t just a prize, but an experience. You bring creativity, personality, and that extra spark that makes the prize segment feel special. The show would not feel quite the same without that touch of Divine chaos.
+---
+Constantine, thank you for your generosity and for providing Trials of Elysium game keys as prizes for so many months. Two copies a week, for many, many months, is not a small thing. That kind of support helped make the show more exciting, gave people something fun to win, and added to the sense that this community shows up for each other in real ways. You’ve always brought heart, fun, and that unmistakable party energy, and we appreciate you so much.
+
+And Arken, thank you for being the engine behind our YouTube channel. You took over the streaming first, you maintain the channel, you cut shorts from the video segments, and you bring valuable feedback, ideas, and input that help the show keep growing beyond the room itself. Because of your work, the show doesn’t just exist for the people who are there live. It gets preserved, shared, clipped, and carried forward. That is huge.
+
+To every single one of you, thank you.
+
+Thank you for the time you give, the effort you put in, the laughs you create, the problems you solve, the ideas you encourage, the feedback you offer, the prizes you provide, the clips you make, the streams you run, and the moments where you help make this feel like more than just a show.
+---
+Because that’s the truth of it.
+
+The VR Late Show is not just jokes and segments and questionable decisions made far too close to showtime.
+
+It’s people. choosing to show up, to help, to laugh together. People choosing to build something that didn’t exist before we all decided it should.
+
+And that brings me to the audience.
+
+Because none of this works without you either.
+
+You are not just sitting in the room while the show happens. You are part of the show. You are the laughter after a joke lands. You are the groans when a joke absolutely does not land, which, frankly, are also part of the brand. You are the reactions, the heckles, the answers, the comments, the chaos, the applause, and sometimes the reason a throwaway line becomes a recurring bit that haunts us for months.
+
+You give the show its pulse.
+---
+Every time you come out, every time you bring a friend, every time you laugh, clap, vote, participate, or just sit there quietly taking it all in, you are part of what keeps this going.
+
+There are a lot of places people could be on a Saturday night. You could be watching Netflix. You could be gaming. You could be pretending you’re going to bed early and then scrolling TikTok until 3 a.m. like a raccoon with Wi-Fi.
+
+But instead, you come here.
+
+You come into this strange little corner of VR, into a room full of avatars, jokes, music, games, community, and absolute nonsense, and you help make it feel alive.
+
+That matters.
+
+So tonight’s Bright Spot is the whole damn thing.
+
+The people on stage.
+The people in the booth.
+The people streaming, clipping, posting, building, maintaining, donating, creating, and helping behind the scenes.
+And the audience who shows up and gives all of that effort somewhere to land.
+---
+The VR Late Show exists because people care enough to keep showing up for it.
+
+And from the bottom of my very tired, very grateful, probably over-caffeinated heart, thank you.
+
+You are the Bright Spot.
+
+All of you.
 
 ---
 National Days
 
-Today is National Fitness Day. A day to train like a Jedi… or at least pretend you’re going to. Meanwhile it’s also National Truffle Day, so it’s less “Rise of Skywalker” and more “Rise of my blood sugar.
+Today is Honor Our LGBT Elders Day. A day to recognize the people who fought for rights, safety, and visibility before rainbow merch was in every store. Respect your elders, especially the ones who survived decades of nonsense so the rest of us could argue about flags online.
 
-Sunday is National Paranormal Day. Basically Star Wars has been preparing us for this… ghosts are real, they just call them Force ghosts. Which is way cooler than saying my house creaks and I’m scared.
+Sunday is National Take Your Parents to the Playground Day. Because nothing says family bonding like watching Dad insist he “still has it” and then immediately need help getting off the monkey bars.
 
-Monday is National Star Wars Day. May the Fourth be with you. A beautiful reminder that for 24 hours, everyone’s a fan… whether they’ve seen the movies or just the memes.
+Tuesday is National Roadie Day. A day for the people hauling gear, fixing problems, and making the show happen while the performers get applause. Basically the Jedi Council of “why is this cable not working?”
 
-Friday is National Have a Coke Day. Because even in a galaxy far, far away… capitalism finds a way. You just know somewhere there’s a vending machine on the Death Star.
+Wednesday is National Rescue Dog Day. Celebrating dogs who got a second chance and then immediately took over the couch, the bed, and your entire emotional stability. Worth it.
 
-Next Saturday is National Sleepover Day. Staying up all night like a Rebel mission… except instead of saving the galaxy, you’re just fighting for your life at 3am wondering why you’re still awake.
+Thursday is National Waitstaff Day. A day to appreciate the people who remember six orders, dodge toddlers, carry hot plates, and still smile when someone says, “I’ll just have water” like it’s a personality. Tip your servers, people!
 ---
 
-🎭 SKIT: “Sith Resources Department”
+🎤 CAPTNDAN’S VR VIBE VIOLATIONS — INTRO
 
-🎤 OPENING INTRO (Dan = Head Sith Lord of HR)
+“Welcome to CaptnDan’s VR Vibe Violations — the late night investigation show where we examine suspicious behavior, emotional warfare, cursed internet personalities, and the kind of VRChat decisions that make therapists buy bigger notebooks.”
 
-You slowly step forward, hands behind your back, pacing like you’re about to fire someone across the galaxy.
+“Tonight, our audience will review a series of red flags pulled straight from VR, Discord, gaming culture, and chaotic online relationships.”
 
-“Welcome… employees of the Empire… to a very… unfortunate evening.”
+“Our mission is simple: determine whether these are harmless personality quirks… or the beginning of a full psychological side quest.”
 
-“As many of you know, our Head of HR is out sick… apparently something about ‘emotional burnout’ and ‘hostile work environments.’ Weakness.”
+🟢 Probably Fine
+🟡 Suspicious
+🔴 Full Chaos Event
 
-“So tonight… I, your Dark Lord of the Sith… will be handling all workplace complaints personally.”
+“And audience… we’ll need your help deciding just how dangerous these vibes really are.”
 
-pause… look over the crowd
-
-“Let me be clear… I do not care about your feelings… your safety… or your work-life balance.”
-
-“I care about results.”
-
-“And yet… here you are… lining up… to complain.”
-
-leans in slightly
-
-“How… brave of you.”
-
+“Some of these people need support. Some need boundaries. And some need their Wi-Fi temporarily disconnected for public safety.”
 ---
-👥 COHOST (HR ASSISTANT / “Force-Sensitive Mediator”) - kitty
+“Let the investigation begin.”
+🚩 MAIN RED FLAG SCENARIOS
 
-steps in, cutting you off
+Someone constantly changes their username, identity, friend group, and personality every few months because they “need a fresh start”… yet somehow every old community ended with “everybody turning against them.”
 
-“Okay—HI—yes—quick clarification, we DO care about feelings… we’re just… workshopping how we care about them.”
+A person claims every previous server, relationship, and friendship group was toxic, abusive, manipulative, or jealous of them… but somehow they are the only common factor in every story.
 
-“Please don’t be intimidated. This is a safe space.”
-
-leans toward you
-
-“…a monitored safe space.”
-
-⸻
-
-🎤 YOU (SITH LORD, annoyed)
-
-“Yes, yes… ‘safe space.’”
-
-“Step forward… state your complaint… and prepare to be… evaluated.”
-
+Someone actively tries to control how others see people by constantly saying:
+“Trust me, they’re a terrible person.”
+But whenever someone asks what actually happened, the explanation becomes vague, dramatic, and strangely inconsistent.
 ---
-😈 ONE-LINE SITH RESPONSES (Dan)
+A person constantly rewrites past conversations and events until everyone around them starts questioning their own memory like they accidentally joined an emotional detective thriller.
 
-Use these rapid-fire depending on what people say:
+5 Someone starts “ironically joking” about being attracted to animals or keeps trying to normalize extremely disturbing conversations in VR spaces, then acts like everyone else is “too sensitive” for being uncomfortable. The moment people start needing a debate team just to explain basic boundaries… that’s probably not a green flag.
 
-“Ah… suffering. A strong start to your performance review.”
-“Have you tried… not being weak?”
-“Interesting complaint… have you considered turning it into power?”
-“Your pain is noted… and will be ignored.”
-“I sense… incompetence… not injustice.”
-“That sounds like a you problem… and I love that for you.”
-“We’ll circle back to that… never.”
-“Your concerns have been filed… directly into the void.”
-“I could fix this… but where’s the fun in that?”
-“Have you tried channeling your frustration into something useful… like fear?”
-“Mmm… yes… tell me more about how this inconveniences you.”
-“You seek fairness… in the Empire? Adorable.”
-“I find your lack of resilience… refreshing.”
-“This is less of a complaint… and more of a confession.”
-“You want balance? Join the Jedi… oh wait.”
-“Your manager sounds terrible… I’m promoting them.”
-“We value your feedback… as a cautionary tale.”
-“This will make an excellent training example… of what not to be.”
-“You have two options: adapt… or become a lesson.”
-
----
-🛑 COHOST INTERRUPT LINES (kitty to rein you in)
-
-“Okay—WOW—we’re gonna soften that… a LOT.”
-“Let’s maybe not threaten the employees?”
-“We hear you, we validate you… we’re just ignoring him.”
-“Great feedback! Let’s translate that into something… non-terrifying.”
-“He means we’ll ‘look into it.’ Not… destroy you.”
-“We are NOT promoting toxic leadership tonight—sir—SIR—”
-“And this is why HR quit.”
-
----
-This Week in the Galaxy
-
-kitty - Alright, it’s time to check in on what’s been happening across the galaxy… and honestly, it’s not going great. Here’s This Week in the Galaxy.
-
-Dan - “Local Jedi still ‘seeking balance’… meanwhile can’t even balance a normal conversation without bringing up the Force.”
-
-kitty - “Stormtrooper misses 847th shot in a row… now blaming the controller, the lighting, and ‘emotional distractions.’ Sir, you’re shooting at a man in beige.”
-
-D - “Death Star designers confirm there were originally railings… but they were cut to stay within the ‘evil budget.’”
-
-k - “Man living on Tatooine complains it’s too hot… Sir, you chose a planet with TWO suns, that’s on you.”
-
-D - “Jedi Council senses a disturbance in the Force… decides the best course of action is to sit in a circle and do absolutely nothing about it.”
-
-k - “Darth Vader chokes another employee mid-meeting, calling it ‘team building.’ And somehow, attendance is still mandatory.”
-
-D - “Millennium Falcon breaks down again… Han Solo fixes it by slapping it and whispering ‘don’t embarrass me in front of people.’”
----
-k - “Yoda accidentally speaks in a full sentence… immediately checks himself into rehab.”
-
-D - “Bounty hunter misses target… says it was ‘a warning shot.’ It was not.”
-
-k - “Local Sith says anger makes him stronger, proceeds to lose argument, follows up by crying in cloak.”
-
-D - “Sith apprentice promises to overthrow master… immediately gets HR’d by lightning.”
-
-k - “Force ghost shows up to give advice… says something vague, refuses to elaborate, disappears again. Incredible mentorship.”
-
-D - “Galaxy survey reveals 92% of citizens have considered joining the dark side… mostly for dental and a consistent dress code.”
-
-k - “And finally… galaxy once again saved by a random guy who just found out he’s important five minutes ago.”
-
-D - “And that’s been This Week in the Galaxy… proving that across all of space and time, nobody knows what they’re doing.”
+A user says they’re “emotionally unavailable” while simultaneously flirting with multiple people in the same instance and creating enough mixed signals to qualify as air traffic control.
 
 ---
 Darwin Award
 
-So this actually happened, and I want you to picture it like a scene that thinks it’s epic… but it’s happening on a random Tuesday afternoon. There’s a courthouse in Oregon. People are going about their day. Someone’s filing paperwork, someone’s regretting a parking ticket, normal life. And then out front, standing on the steps like he just missed his cue in a movie… is a guy dressed like a Jedi. Full robe. Hood up. Completely committed.
+Tonight’s Darwin Award Honourable Mention goes to a South African man who went on a 10th wedding anniversary trip and decided the best way to celebrate a decade of marriage was to make sure his wife knew exactly what she’d be missing. His arm.
 
-And in his hand? Not a glowing plastic lightsaber. Not something you bought at a convention and waved around for fun. A real metal sword. So now you’ve got this guy pacing back and forth on the courthouse steps, gripping this sword, occasionally striking these dramatic stances like he’s waiting for someone to challenge him. You can just imagine him turning slightly, adjusting his footing, probably thinking he looks mysterious and powerful.
+Now, traditionally, the 10th anniversary gift is tin or aluminium. Not trauma bonding with wildlife. But this man saw a lion enclosure and thought, “You know what would make this romantic getaway unforgettable? Turning it into a workplace safety video.”
 
-Meanwhile, everyone else is thinking: “Why is there a medieval wizard outside the courthouse… and why does he look like he’s about to start something?” People start keeping their distance. Phones come out. Someone is absolutely whispering, “yeah I’m not walking past that.” And then the police show up.
+Because apparently, he reached through a fence to pet a lion. A lion. Not a golden retriever. Not a sleepy cat in a sunbeam. A lion. The animal whose entire brand is “I kill things with my face.” And before it happened, he reportedly joked that if the lion bit him, he’d bite it back.
 
-Now this is where it gets good, because the energy completely clashes. You’ve got officers pulling up, stepping out, calm but alert, trying to figure out what they’re dealing with. And you’ve got this guy, still in character, still holding the sword, still pacing like he’s in the middle of a scene that only exists in his head.
+Sir, that is not a threat. That is meal prep talking back.
 
-They start talking to him. You can picture it. “Hey man, let’s put the sword down.” And he’s not dropping it. He’s shifting his stance. Turning slightly. Holding it like he’s preparing for something. Not attacking, not charging, just… existing in this weird space where he hasn’t realized how serious this looks to everyone else.
----
-At one point he actually raises it, not swinging, but enough that every officer there is suddenly very aware that this could go bad in about half a second. And that’s the tension. Because this is one of those moments where it doesn’t take much. One wrong move, one misunderstanding, and this turns into a completely different story.
+The lioness did, in fact, bite him. Because when you put your arm into the lion enclosure, that’s not affection. That’s DoorDash. He ended up needing more than 60 stitches, which is a lot, but honestly still fewer red flags than the sentence, “I’m going to pet the lion.”
 
-So the officers keep talking. Keep trying to bring it down. Meanwhile he’s still moving around, still gripping the sword, still acting like he’s part of something bigger. Eventually they make the call. They move in, use non-lethal force, and take him down before it escalates any further. It’s quick, controlled, and suddenly the whole “Jedi standoff” ends with him on the ground and reality hitting like a truck.
-
-No dramatic music. No slow motion. Just… silence, confusion, and probably a few people standing there thinking, “what did I just watch?” He survives. Nobody gets killed. And that’s the only reason this doesn’t become something much darker.
-
-And you just know afterward there had to be that moment. Sitting there, maybe in the back of a police car, robe still on, hood pushed back, sword gone, and everything finally settling in.
-
-Like… “…this was outside a courthouse.” There’s no crowd cheering. No credits rolling. Just paperwork. And that’s what makes it so wild. Because in his head, that probably felt like a moment. A scene. Something important. To everyone else, it was just a guy in robes with a sword making a very, very bad decision in the worst possible place.
-
-It’s one thing to love Star Wars. It’s another thing to decide your character arc peaks on courthouse steps in the middle of the day.
+And somehow he survived, so this is not a full Darwin Award. This is an Honourable Mention. A romantic little reminder for our 100th episode: after ten years of marriage, it’s important to keep the spark alive. Try flowers. Try dinner. Try a weekend away. Do not try foreplay with the food chain.
 
 ---
-Star Wars Trivia
+Thank You Notes
 
-1. Who is Palpatine’s granddaughter?
-A. Jyn Erso
-  *B. Rey
-C. Leia Organa
-D. Ahsoka Tano
+Dutch - “Thank you, Late Show audience, for laughing at our jokes even when half of them sound like they were written at 2 AM by people who are one unpaid bill away from starting an OnlyFans.
 
-2. What is Mando’s real name from The Mandalorian?
-A. Boba Fett
-B. Cassian Andor
-  *C. Din Djarin
-D. Cobb Vanth
+kitty - To our audience, thank you for showing up, laughing with us, yelling at us, questioning our life choices, and somehow still coming back again. The Late Show wouldn’t be the Late Show without the people sitting out there making the chaos feel worth it. You’ve turned a silly idea into an excuse to gather, laugh, be weird together, and forget real life for a while. Reaching 100 episodes means a lot, but having people who actually care enough to be there for them means even more.
 
-3. Where did Obi-Wan take Luke after his birth?
-  *A. Tatooine
-B. Alderaan
-C. Naboo
-D. Coruscant
+D - “Thank you to all our co-hosts for helping keep the show running smoothly — because without you, this production would just be Kitty panic-typing through a mental breakdown while pretending everything is ‘totally under control.’”
 
-4. Han Solo was frozen in what?
-A. Beskar
-  *B. Carbonite
-C. Ice crystal
-D. Kyber
+k - To our co-hosts, thank you for bringing your personalities, your humour, your willingness to be ridiculous, and occasionally your ability to follow instructions. This show works because each of you brings something different to the table, whether it’s jokes, energy, reactions, timing, or just the exact right amount of “what are we doing and why is this happening?” A hundred episodes doesn’t happen because one person talks into the void. It happens because a group of people keeps showing up and helping turn that void into entertainment.
+
+D - “Thank you, Static, for creating music, intros and content so good that people actually think this show has a budget. We do not.”
 ---
-5. Who killed Jabba the Hutt?
-A. Luke Skywalker
-  *B. Princess Leia
-C. Han Solo
-D. Boba Fett
+k - To Static, thank you for being such a steady part of this show and everything around it. You’ve been there through the planning, the chaos, the last-minute changes, the “this will be fine” moments that were absolutely not fine, and somehow you still keep showing up. Your support, humour, and presence have helped make the show stronger, smoother, and way more fun. You’re one of those people who helps hold things together, even when everything around us is held together with duct tape, panic, and questionable decisions.
 
-6. Per Yoda, what is the path to the dark side?
-  *A. Fear
-B. Anger
-C. Hate
-D. Suffering
+D - “Thank you, Vanquisher, for building a set so impressive that every guest immediately assumes we know what we’re doing professionally. We do not.”
 
-7. What species is Chewbacca?
-A. Ewok
-B. Trandoshan
-  *C. Wookiee
-D. Ithorian
+k - To Vanquish3r, thank you for being the man behind the curtain, the booth goblin, the button wizard, and the reason half of this show doesn’t collapse into a flaming pile of technical embarrassment. The space, the triggers, the videos, the production side, the fixes, the maintenance, the “give me one second” miracles, all of it matters more than we probably say out loud enough. This show would not be what it is without the work you’ve put into making it run, look good, and feel like an actual production instead of just several people yelling in a room.
 
-8. Who told Anakin there is another Skywalker?
-A. Obi-Wan Kenobi
-  *B. Yoda
-C. Padmé Amidala
-D. Qui-Gon Jinn
+D - “Thank you to everyone who’s participated in our skits and games. It takes real courage to willingly appear in content that will absolutely be screenshotted out of context later and used against you like digital blackmail during a future argument.”
 ---
-9. What color was Yoda’s lightsaber?
-A. Blue
-B. Purple
-  *C. Green
-D. Yellow
+k - To Arken, thank you for helping give the Late Show a life beyond the night it airs. Running the YouTube side means the chaos doesn’t just vanish into the digital fog after we wrap, which is honestly both a gift and mildly dangerous, depending on what we said that week. You’ve helped make it possible for people to catch up, rewatch moments, share episodes, and see what this ridiculous little show has become over time. That work matters, and it’s one of the reasons 100 episodes feels like something we can actually look back on instead of just vaguely remember through panic, laughter, and questionable jokes.
 
-10. C-3PO is fluent in how many forms of communication?
-  *A. Over six million
-B. Three million
-C. One million
-D. Two million
+D - “Thank you, Kitty, for being the heart of this entire show — the amazing host who somehow keeps the chaos organized, the guests entertained, and the rest of us from accidentally turning every segment into a public disaster. Honestly, without you, this whole production would collapse faster than your sleep schedule after one ‘quick’ gaming session at 11 PM.”
 
-11. Who played Princess Leia?
-A. Natalie Portman
-  *B. Carrie Fisher
-C. Daisy Ridley
-D. Felicity Jones
+k - To Dutch, thank you for everything you bring to the show, from your humour and presence to the extra work you’ve taken on behind the scenes. You’ve helped carry pieces of this thing that people may not always see, but they definitely feel. Your support, your energy, and your willingness to jump in have helped make the Late Show better. Also, thank you for proving that “responsible adult helping with production” and “absolute menace” can, in fact, exist in the same person.
 
-12. Who does Obi-Wan say was the “Chosen One”?
-A. Luke Skywalker
-  *B. Anakin Skywalker
-C. Rey
-D. Ben Solo
+And of course, a very important thank you to Luna, for putting up with all of this and allowing our particular brand of chaos into her life on a regular basis. That is not a small thing. Luna, you mean so much to me, and having your support, patience, kindness, and presence around this weird little show family matters more than I can properly say without making it weird. Which, to be fair, is kind of on brand for us.
 ---
-13. Lightsabers are powered by what type of crystal?
-A. Duranium
-B. Coaxium
-  *C. Kyber crystal
-D. Kaiburr
+D - Final thought: “Seriously though, thank you to every single person who’s helped make The Late Show what it is. To all the guests who came on and shared their stories, jokes, creativity, and chaos with us… to every host and co-host who helped carry the energy week after week… to the people behind the scenes creating music, intros, visuals, effects, worlds, skits, and unforgettable moments… and especially to the audience that keeps showing up every single time to support us, laugh with us, and be part of this weird little family we accidentally built together — thank you.
 
-14. Who is Darth Vader’s grandson?
-A. Luke Skywalker
-B. Jacen Solo
-  *C. Kylo Ren
-D. Anakin Solo
+What started as just an idea turned into something genuinely special because of all of you. Every laugh, every ridiculous moment, every technical disaster we somehow survived, every late-night rehearsal, every last-minute panic, and every person who believed in the show helped turn it into something bigger than we ever expected. We really do appreciate all of you more than we can properly put into words.
 
-15. X-wing fighters were used by which group?
-A. The Empire
-  *B. The Resistance
-C. The First Order
-D. The Trade Federation
+…Even if half of us are running entirely on weed, alcohol, the need for attention and whatever psychological damage comes from being awake in virtual reality at all hours of the night. Here's to 100 more.”
 ---
-16. Who famously said, “These aren’t the droids you’re looking for”?
-  *A. Obi-Wan Kenobi
-B. Han Solo
-C. Yoda
-D. Luke Skywalker
 
-17. Padmé was Queen of what?
-A. Alderaan
-B. Corellia
-  *C. Naboo
-D. Mandalore
-
-18. C-3PO is mechanically incapable of speaking translations from whom?
-A. The Jedi
-  *B. The Sith
-C. The Hutts
-D. The Mandalorians
