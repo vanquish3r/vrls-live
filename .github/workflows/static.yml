@@ -57,6 +57,7 @@ jobs:
           cp -r music dist/ || true
           cp -r sfx dist/ || true
           cp -r live dist/ || true
+          cp -r posters dist/ || true
           cp index.html dist/ 2>/dev/null || true
           # Uncomment below if you have css or js folders
           # cp -r css dist/ || true
