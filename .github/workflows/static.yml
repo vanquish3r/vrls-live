@@ -2,27 +2,20 @@
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write    # CHANGED: Grants the bot permission to save the txt files to your repo
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
   deploy:
     environment:
       name: github-pages
@@ -32,20 +25,41 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate posters manifest
+      - name: Generate all manifests
         run: |
-          cd poster-slideshow
-          ls -1 *.jpg *.jpeg *.png *.webp 2>/dev/null > posters.txt || true
+          # Generate poster manifest
+          cd poster-slideshow || true
+          ls -1 *.[jJ][pP][gG] *.[jJ][pP][eE][gG] *.[pP][nN][gG] *.[wW][eE][bB][pP] 2>/dev/null > posters.txt || true
+          cd ..
+          
+          # Generate music manifest (case-insensitive for .mp3 or .MP3)
+          cd music || true
+          ls -1 *.[mM][pP]3 2>/dev/null > music.txt || true
+          cd ..
+          
+          # Generate sfx manifest (case-insensitive)
+          cd sfx || true
+          ls -1 *.[mM][pP]3 2>/dev/null > sfx.txt || true
+          cd ..
 
-      - name: Generate music manifest
+      - name: Save manifests back to GitHub Repository
         run: |
-          cd music
-          ls -1 *.mp3 2>/dev/null > music.txt || true
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add poster-slideshow/posters.txt music/music.txt sfx/sfx.txt || true
+          git commit -m "Auto-generate media manifests" || true
+          git push || true
 
-      - name: Generate sfx manifest
+      - name: Prepare deployment folder
         run: |
-          cd sfx
-          ls -1 *.mp3 2>/dev/null > sfx.txt || true
+          mkdir dist
+          cp -r poster-slideshow dist/ || true
+          cp -r music dist/ || true
+          cp -r sfx dist/ || true
+          cp index.html dist/ 2>/dev/null || true
+          # Uncomment below if you have css or js folders
+          # cp -r css dist/ || true
+          # cp -r js dist/ || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -53,8 +67,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: 'dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
