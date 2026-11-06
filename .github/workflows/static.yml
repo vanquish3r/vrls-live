@@ -37,6 +37,16 @@ jobs:
           cd poster-slideshow
           ls -1 *.jpg *.jpeg *.png *.webp 2>/dev/null > posters.txt || true
 
+      - name: Generate music manifest
+        run: |
+          cd music
+          ls -1 *.mp3 2>/dev/null > music.txt || true
+
+      - name: Generate sfx manifest
+        run: |
+          cd sfx
+          ls -1 *.mp3 2>/dev/null > sfx.txt || true
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
