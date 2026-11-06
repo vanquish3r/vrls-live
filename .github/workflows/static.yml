@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write    # CHANGED: Grants the bot permission to save the txt files to your repo
+  contents: write    # Grants the bot permission to save the txt files to your repo
   pages: write
   id-token: write
 
@@ -56,6 +56,7 @@ jobs:
           cp -r poster-slideshow dist/ || true
           cp -r music dist/ || true
           cp -r sfx dist/ || true
+          cp -r live dist/ || true
           cp index.html dist/ 2>/dev/null || true
           # Uncomment below if you have css or js folders
           # cp -r css dist/ || true
