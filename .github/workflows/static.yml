@@ -41,12 +41,17 @@ jobs:
           cd sfx || true
           ls -1 *.[mM][pP]3 2>/dev/null > sfx.txt || true
           cd ..
+          
+          # Generate group-photos manifest (excluding 'past' directory)
+          cd group-photos || true
+          find . -maxdepth 1 -type f -name "*.[jJ][pP][gG]" -o -name "*.[jJ][pP][eE][gG]" -o -name "*.[pP][nN][gG]" -o -name "*.[wW][eE][bB][pP]" 2>/dev/null | sed 's|^\./||' > photos.txt || true
+          cd ..
 
       - name: Save manifests back to GitHub Repository
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add poster-slideshow/posters.txt music/music.txt sfx/sfx.txt || true
+          git add poster-slideshow/posters.txt music/music.txt sfx/sfx.txt group-photos/photos.txt || true
           git commit -m "Auto-generate media manifests" || true
           git push || true
 
@@ -58,6 +63,7 @@ jobs:
           cp -r sfx dist/ || true
           cp -r live dist/ || true
           cp -r posters dist/ || true
+          cp -r group-photos dist/ || true
           cp index.html dist/ 2>/dev/null || true
           # Uncomment below if you have css or js folders
           # cp -r css dist/ || true
