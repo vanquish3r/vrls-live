@@ -1,103 +1,399 @@
 The VR Late Show (relaunch)
 (Tentative) November 14th 2026
-Episode #105
+Episode #104
 
 => Opening Act  - 10 mins
 => Host Intros - 1 min
 => Socials & Picture - 5 mins 
-=> World Spotlight - 5-7 mins
-=> Interview with Chris - 10 mins
-=> Audience Interaction Game - 10 mins
-=> Thank You Notes (5 each) - 5-7 mins
-=> VR-Libs - 10 mins
+=> Interview with CyberVines - 10 mins
+=> Top Ten - 2-3 mins
+=> New Tech/Games - 5 mins
+=> Dear kitty (terrible advice) - 5-10 mins
+=> Liar Liar - 10 mins
+=> Unhinged Missed Connections - 5-10 mins
 => Statics Hot Mic - 5 mins
 => Picture - 5 
-=> Sign off - This has been The VR Late Show. Until next time ... there's the door"
+=> Sign off - This has been The VR Late Show. Until next time... Reconsider your life choices.
 
-Game winners: BigRadz67, Glenn
-
--------------------------------------------------
-
-Call for Opening Acts
-
-We're always looking for people who'd like to be an opening act on the Late Show! Whether you're a singer, musician, comedian, or have another talent you'd love to share, we'd love to hear from you!
-
-We're looking for short, prepared performances rather than karaoke-style singing. You don't have to be a professional, just bring something fun and entertaining to the stage!
-
-If you're interested in being featured as an opening act, reach out to me and let's talk!
-
------------------------------------------------
-
-Interview with Chris (ccbruegge10)
-
-1. Let's start at the beginning! How did you first find your way into Altspace, and what inspired you to make the leap from exploring other people's worlds to creating your own?
-
-2. Every world builder brings a little bit of themselves into what they create. When you look at the worlds you've built, is there one you're particularly proud of or that has a special meaning to you? What's the story behind it?
-
-3. I know one of the spaces you've created is an LGBTQ+ space, and I'd love to hear a little about that. What inspired you to create it, and what kind of experience are you hoping people have when they visit?
-
-4. You don't just build worlds, you also create experiences that bring people together, like your annual Rocky Horror Picture Show events. What do you enjoy most about that side of VR, and have there been any particularly memorable moments or experiences along the way?
-
-5. Before we let you go, I want to give you a chance to show off a little! For people watching who haven't explored your worlds yet, what can they look forward to discovering? And is there anything new you're working on that you can tease for us?
-
------------------------------
-
-No Refunds
-
-We’ll bring four volunteers up on stage for three rounds. Each round, I’ll show a strange product, and each volunteer gets 15 seconds to put their sales skills to the test and give us their best pitch. After all four pitches, I’ll call out each player one at a time. Jump when I call your favorite! The player who wins the most rounds takes home a $25 Amazon gift card.
-
-------------------------------
-
-Thank You Notes
-
-kitty - Thank you, Altspace, for finally giving me the chance to experience what everyone loved about the original platform. I've waited so long to be here, and now that I am, I barely recognize myself. Literally. Who the hell is this person I'm walking around as?
-
-Dutch - Thank you, old-school AltSpace fans, for giving the relaunch a fair shot. You made it all the way through “Welcome back” before asking where the old campfire was.
-
-k - Thank you, Altspace, for teaching me that volume control is really more of a suggestion. Nothing brings a community together quite like trying to have a conversation while a world sound effect attempts to rupture your eardrums.
-
-D - Thank you, new AltSpace worlds, for giving us so much to explore. I went to a medieval tavern, a space colony, and a neon city last night. Somehow, in all three, the first thing I heard was, “Can you guys hear me?”
-
-k - Thank you, Altspace, for making my very first Late Show on the platform such a memorable experience. I knew we were bringing the heat, but I didn't realize my headset was going to take that as a personal challenge.
-
-D - Thank you, new AltSpace avatars, for letting me reinvent myself. I spent 45 minutes getting my face just right, and my friends still recognized me by the way I walked into a wall.
-
-k - Thank you, Altspace, for capping our XP at 600 per week. I used to think missions were something you were supposed to work toward. Turns out, all I have to do is log in, say hello to a few people, and congratulations, I've completed Altspace for the week.
-
-D - Thank you, new AltSpace friends, for making me feel welcome so quickly. We’d known each other for ten minutes when you said, “Follow me, I know a shortcut,” and led all four of us off a cliff. That’s when I knew I’d found my people.
-
-k - Thank you, Altspace, for bringing this incredible community back together. We've got the nostalgia, the excitement, the bugs, the questionable fashion choices, and apparently the occasional smoking headset. But somehow, even with all of that, I wouldn't want to be anywhere else.
-
-D - Thank you, AltSpace XP, for finally giving me credit for hanging around doing nothing. My mom called it wasting my life. You called it Level 20.
-
-k - All jokes aside, I'm really grateful that Altspace is back and that I get to be part of it.  I want to give a huge thank you to the entire team behind all of this. The amount of hard work, time, and dedication that's gone into bringing Altspace back is incredible, and I hope you all know how much it's appreciated. And to the community, thank you for showing up, supporting it, and helping bring this place back to life. None of this would mean nearly as much without all of you, and I can't wait to see what we build together.
-
------------------------------
-
-ALT-Libs
-
-Altspace: What Could Possibly Go Wrong?
-
-Altspace was finally back, and Static celebrated by showing up dressed as a [ANIMAL] wearing [CLOTHING ITEM].
-
-Cause welcomed everyone by shouting, "[SOMETHING YOU SHOULDN'T SAY IN PUBLIC]!", while Optic attempted to fix the audio using a [HOUSEHOLD OBJECT].
-
-Divine assured everyone that the resulting [ADJECTIVE] experience was completely intentional.
-
-Daisy Shaw discovered her new avatar looked like [CELEBRITY] with an unusually large [BODY PART].
-
-DraculusX took the stage and screamed "[RIDICULOUS PHRASE]!", which NeilStrid immediately classified as [EMBARRASSING ACTIVITY] and awarded 600 XP.
-
-FireRat accidentally turned the entire audience into [PLURAL NOUN], while kitty's headset started [VERB ENDING IN -ING].
-
-After the world crashed for the **[NUMBER]**th time, everyone logged back in.
-
-And just like that, Lidia Chlamydia announced we'd all hit our weekly XP cap.
-
-Welcome back to Altspace, where the bugs are free, but apparently the XP is rationed.
+Game winners: BigRadz67, Glenn, KrayKray, JoeBlinky
 
 --------------------------------------
+Cybervines Interview
 
-(kitty) This has been The VR Late Show. Until next time ... 
+1. You've got a pretty extensive background in technology, well beyond virtual reality. So I'm curious, what originally brought you into social VR, and what was it about Altspace that made you want to become part of the community?
 
-(Dutch) there's the door"
+2. You've created the AltVR HouseParty space, and you've been working on features like HouseParty TV. But beyond the technology itself, what do you think makes a great virtual gathering? What turns a bunch of avatars in a room into an actual experience people want to come back to?
+
+3. You've been exploring some interesting ideas around live entertainment, including bringing local bar bands into VR. What inspired that idea, and what do you think virtual reality could offer musicians and audiences that traditional venues can't?
+
+4. One of the things you sent me was SynBioBeta, which is a pretty unexpected direction from what we normally talk about on the show! Can you explain a little more about that and how it ties into your brand?
+
+5. You've obviously got a lot of ideas and projects on the go, but I want to get away from the technology for a minute. What's been the most memorable or unexpected experience you've had with someone in virtual reality, something that really reminded you why these communities matter?
+
+* I understand you've got an experience you would like to share with everyone after the show, tell us a little bit about that before we let you go.
+
+---------------------------------------
+Top Ten
+
+**PANDA** 
+And now, ladies and gentlemen, it's time for our Late Show Top Ten!
+
+Tonight's topic...
+
+Top Ten Signs You've Been Spending Too Much Time in VR
+
+**KITTY* 
+
+Number 10 - You've spent more money dressing an avatar that doesn't actually exist than you've spent on real clothes in the last six months.
+
+Number 9 - You recognize all your friends by their voices, but if you passed them in Walmart, you'd have absolutely no idea who they were.
+
+Number 8 - You've yelled "WHO THE HELL IS BREATHING INTO THEIR MIC?!" more times than you've said "I love you" this year.
+
+Number 7 - You've spent four thousand dollars on VR equipment so you can sit in a virtual bar and complain about being broke.
+
+Number 6 - Your doctor asks if you get regular exercise, and you proudly tell him you dance four nights a week.
+
+He asks what gym you belong to.
+
+You say, "Well, technically, it's my bedroom."
+
+Number 5 - You've attended more virtual weddings than real ones, and somehow the divorce rate is even higher.
+
+Number 4 - Your partner asks if the two of you can have some private time together, and you ask, "Invite only or friends plus?"
+
+Number 3 - You've told a complete stranger named MurderBunny420 your deepest, darkest secrets, but you refuse to give your real name to the pizza delivery guy.
+
+Number 2 - You own three virtual mansions, two nightclubs, a yacht, and an entire tropical island. In real life, you're sitting on a folding chair beside a laundry basket.
+
+**AND THE NUMBER ONE SIGN YOU'VE BEEN SPENDING WAY TOO MUCH TIME IN VR...**
+
+Your family finally stages an intervention. And the first thing you ask is...
+
+"Is there an event link, or do I have to open a portal?"
+
+Thank you, everybody! That's your Late Show Top Ten!
+
+----------------------------------------
+
+New Tech/Games 
+
+New Cars
+* Tesla’s new flying car
+* Porsche
+
+New games
+* Gta 6 
+* Fable 
+* Skyrim
+* The Witcher
+
+New movies
+* Dune
+* Avengers doom day
+* White chicks
+* The Grinch
+
+-----------------------------------------
+
+Dear kitty: Terrible Advice for Terrible People
+
+Welcome to Dear kitty, the advice column where people send me their problems and I make them significantly worse.
+
+Now, I should probably mention that I am not a licensed therapist, relationship counsellor, or qualified professional of any kind. I'm just a woman with a microphone, an opinion, and absolutely no business giving anybody life advice.
+
+So, with that in mind, let's see whose life we're ruining today!
+
+**DAN:** (FEMALE)
+
+Dear Kitty,
+
+My boyfriend spends sixteen hours a day gaming. He can build an entire automated chicken farm in Minecraft, but somehow he doesn't know how to load the dishwasher.
+
+Yesterday he told me he wasn't sure where the clean plates went. We've lived together for seven years. How do I get him to help around the house?
+
+Sincerely, Living with a Legendary Idiot.
+
+**KITTY:**
+
+Dear Legendary Idiot's Girlfriend,
+
+Your boyfriend has mastered electricity, engineering, resource management, and the reproductive habits of digital livestock.
+
+I promise you, the man understands plates. Here's what you're going to do. Turn the household chores into an RPG.
+
+Leave little quest markers around the house. Every time he picks up a sock, he gets five experience points. Every time he washes a dish, he unlocks a new achievement.
+
+"Congratulations! You've unlocked BASIC HUMAN FUNCTIONING!"
+
+And when he finally cleans the bathroom, you can reward him with the rarest achievement of all. A girlfriend who doesn't want to murder him.
+
+**DAN:** (EITHER)
+
+Dear Kitty,
+
+I have a friend who refuses to text. Instead, he sends me voice messages. Not short ones, either. I'm talking eight, nine, sometimes twelve minutes long.
+
+Half the message is him forgetting what he was talking about. Last week I listened to him make a sandwich, yell at his dog, and apparently take a piss. When I ask him to just text me, he says I'm not appreciating authentic communication. What should I do?
+
+Sincerely, Trapped in a Podcast.
+
+**KITTY:**
+
+Dear Trapped,
+
+You don't have a friend. You have a podcast subscription you never agreed to. It's time to fight fire with fire. The next time he sends you a twelve-minute voice message, respond with a forty-minute recording of your washing machine.
+
+No explanation. No introduction. Just forty uninterrupted minutes of the spin cycle. If he complains, tell him it's an immersive audio experience about your emotional journey through fabric softener. And if that doesn't work, start sending him dramatic readings of your grocery receipts.
+
+"One cucumber. Two dollars and forty-nine cents. WHY HATH YOU FORSAKEN ME, SOBEYS?!" He'll learn to text.
+
+**DAN:** (EITHER)
+
+Dear Kitty,
+
+I met the most amazing man in VR. He's charming, romantic, and tells me I'm his soulmate. He says he owns six properties, he's financially independent, and he's an entrepreneur.
+
+Unfortunately, all six properties are virtual worlds, his business is selling avatar textures, and when I asked where he lives, he said, "Physically or spiritually?"
+
+We've been together three months, and I've still never seen his face. Am I being too suspicious?
+
+Sincerely, Virtually in Love.
+
+**KITTY:**
+
+Dear Virtually in Love,
+
+First of all, congratulations on your relationship with what might be three raccoons operating a headset. I'm sure his six properties are lovely, but unless the bank has started accepting Unity assets as collateral, I'm not sure you're marrying into money.
+
+Now, there's nothing wrong with meeting someone in VR. Some amazing relationships have started that way. But there's mysterious, and then there's "I'm dating a man whose entire legal identity is a purple dragon named DaddyThunder69."
+
+Here's my suggestion. Ask him one very simple question. "What do you do when your headset battery dies?" If he says, "Usually I go upstairs and spend some time with my wife and kids," congratulations!
+
+You've just discovered his seventh property. The doghouse he's about to be living in.
+
+**DAN:** (FEMALE)
+
+Dear Kitty,
+
+My friend is getting married in VR and asked me to be her maid of honour. I thought that sounded fun.
+
+Now she wants me to organize six rehearsals, coordinate thirty guests, arrange the music, settle an argument between her and the groom's ex, and somehow build an entire wedding chapel.
+
+Yesterday she threatened to replace me because I didn't like her choice of virtual flowers. Am I a bad friend for wanting to quit?
+
+Sincerely, Bridesmaid.exe Has Stopped Working.
+
+**KITTY:**
+
+Dear Bridesmaid,
+
+Let me get this straight.
+
+You're planning a wedding, mediating relationship disputes, managing thirty people, and doing virtual construction work? For free?
+
+Sweetheart, you're not a maid of honour. You're an unpaid wedding planner with Stockholm syndrome. Here's what you need to do. Send the bride an invoice. Include separate charges for event management, emotional damages, and emergency bullshit removal.
+
+Add an extra five hundred dollars for every time you've heard the words "It's MY special day!" And if she threatens to replace you again, tell her that's perfectly fine. You wish her and her future ex-husband a lifetime of virtual happiness. Or at least until someone forgets to renew the server.
+
+**DAN:** (EITHER)
+
+Dear Kitty,
+
+My girlfriend says I have a problem with VR. Every night I promise I'll log off by eleven, but somehow it's four in the morning before I finally get to bed. Last night I spent forty-five minutes saying goodbye to the same five people.
+
+I know I should probably cut back, but I really don't think I have a problem. What do you think?
+
+Sincerely, Just Five More Minutes.
+
+**KITTY:**
+
+Dear Five More Minutes,
+
+I think you have a problem. But not the one you think. Your problem is that you apparently believe every time you leave a virtual room, you're departing on the Titanic. You don't need to personally address every single passenger.
+
+You don't need to tell people how much they mean to you. You don't need one final hug. And you certainly don't need to announce your departure, then spend another two hours discussing the departure.
+
+Here's what you do. At eleven o'clock, say, "Goodnight, everybody!" And then... This is the important part...
+
+TURN THE HEADSET OFF!
+
+I know. Revolutionary concept. If you absolutely must make a big emotional farewell, record one in advance and play it every night. Include some sad violin music. Maybe a slideshow. A few photographs of the good times.
+
+And remember, these people are not witnessing your final moments on Earth. You're going to see them again tomorrow. Probably at eight in the morning, because none of you have gone to bed.
+
+**KITTY:**
+
+Well, that's all the terrible advice we have time for tonight.
+
+Remember, if you're having relationship problems, friendship problems, or just generally making questionable life choices, Dear Kitty is here to help.
+
+**DAN:**
+
+Or make things worse. There's really no quality control.
+
+Until next time, make good choices. Or don't.
+
+------------------------------------------
+Liar Liar 
+
+(((((((PLACEHOLDER)))))))
+
+------------------------------------------
+
+Missed Connections: The Unhinged Edition
+
+**KITTY (opening):**
+You know, sometimes love finds us in the most unexpected places.
+
+At a party. In a nightclub. Standing in line for a coffee. Or in a virtual world, where the person you've fallen desperately in love with might actually be a forty-seven-year-old man sitting in his underwear eating Doritos.
+
+**PANDA:**
+Tonight, we're exploring the beautiful, romantic, and occasionally deeply disturbing world of missed connections.
+
+These are the stories of people who almost found love.
+
+And after hearing them, I think you'll understand why they probably didn't.
+
+**KITTY:**
+To the handsome man in the tuxedo standing near the virtual buffet last Saturday...
+
+You were looking incredibly sophisticated. I was the woman in the red dress attempting to eat a block of cheese without taking off my headset.
+
+When my microphone accidentally picked up the sound of me chewing, you said, "Is somebody eating?"
+
+I said, "Somebody's living." You laughed. I laughed. And then my headset fell directly into the cheese. I haven't stopped thinking about you. If you're out there, please get in touch. I'll bring the crackers.
+
+**PANDA**
+So let me get this straight. She was aggressively eating cheese, making questionable noises into her microphone, and ended up face-first in a block of cheddar? Somebody needs an adult...
+
+**KITTY:**
+To the beautiful woman I met on the dance floor...
+
+You said you loved how mysterious and quiet I was. The truth is, my microphone was broken. You said you loved how I stood completely still and just watched you. My controllers were dead.
+
+And when you told me you'd never met someone with such an intense, smouldering stare... My headset had frozen. I wanted to tell you how I felt, but my battery died.
+
+Please find me. You're the only person who's ever mistaken catastrophic hardware failure for sex appeal.
+
+**PANDA:** 
+He couldn't speak, couldn't move, and ran out of juice after five minutes? That's not your dream man. That's a vibrator with a warranty issue.
+
+**KITTY:**
+To the man with the impossibly deep voice at the party last night...
+
+You walked into the room and simply said, "Testing. One. Two." At that exact moment, six women stopped talking. Three changed their relationship status. One audibly whispered, "Daddy?"
+
+I don't know your name. I don't know what you look like. I don't even know if you're single. But I do know that when you said, "Can everybody hear me?" I nearly proposed. Please contact me.
+
+**PANDA**
+Ladies, the man was just testing his microphone!
+
+At this point, he could read the terms and conditions of a software update and half the room would be moaning, "Don't stop, I'm almost there!"
+
+**KITTY:**
+To the beautiful woman in the front row of my open mic performance...
+
+I could tell you were captivated by my poetry. When I began my fourteen-minute spoken-word piece about my divorce and the emotional symbolism of a broken ethernet cable, you seemed deeply moved.
+
+When I reached the section where I compared my ex-wife to an outdated router, you began shaking your head. I know. Powerful stuff. And when you finally stood up and walked away, I could see the emotions had become overwhelming.
+
+If you're reading this, I would love to perform the extended twenty-seven-minute version for you.
+
+**PANDA:**
+Sir. She wasn't overwhelmed by emotion. She was looking for the exit. And I'm pretty sure the broken ethernet cable was trying to leave too.
+
+**KITTY:**
+To the mysterious woman I met beneath the virtual moon...
+
+You told me you were an eight-hundred-year-old demon queen, ruler of the underworld, and destroyer of mortal souls. I was intimidated. But also strangely aroused.
+
+We danced beneath the stars. You spoke of ancient prophecies. You promised me immortality. Then your husband walked into the room and yelled, "Linda! Did you remember to put the chicken in the air fryer?"
+
+And you screamed, "GO AWAY, GARY, I'M BUSY!"
+
+Linda... If you're reading this, I don't care that you're not really a demon queen. Any woman who can command the armies of hell and make crispy potatoes is the woman for me.
+
+**PANDA:**
+I'm rooting for these two. Although I'm a little concerned about Gary.
+
+**KITTY:**
+To the man whose microphone was accidentally open at two in the morning...
+
+I heard everything. I heard you put bread in the toaster. I heard you wait. And then I heard you scream, "YOU BURNT THE BREAD AGAIN, YOU USELESS PIECE OF CRAP!"
+
+You proceeded to have a full-blown argument with your toaster. You accused it of betraying you. You demanded an apology. At one point, you threatened to replace it with an air fryer.
+
+I've never witnessed a man so passionate about breakfast. If you're single, please reach out. I want someone who fights that hard for the things he loves.
+
+**PANDA:**
+If that's how he reacts when something gets a little too hot, I'd be careful. The man can't even handle two minutes of heat without losing his mind.
+
+**KITTY:**
+To the handsome stranger sitting alone at the nightclub...
+
+I swear I wasn't trying to sit on your lap. My playspace moved. One moment I was dancing, and the next my avatar was straddling your face. I panicked. You panicked.
+
+I tried to stand up, but my tracking glitched, and somehow I ended up upside down with my legs sticking through your head. You whispered, "This is the most action I've had in six months."
+
+And I knew. I knew right then. You were the one. Please find me. I've since recalibrated my tracking, but I'm willing to break it again for you.
+
+**PANDA**
+You know, most people meet their soulmate through mutual friends, dating apps, or shared interests. This woman met hers through a series of technical failures that would normally require a support ticket.
+
+**KITTY:**
+To the kind, patient stranger who spent three hours helping me fix my avatar... You walked me through every step. You never raised your voice. You didn't laugh when I accidentally deleted the entire project.
+
+You calmly explained what I needed to do, even when I asked the same question seventeen times. And when I finally got everything working, you simply said, "Glad I could help," and disappeared into the night.
+
+I don't know if you're single. I don't even know your real name. But I am prepared to marry you. I've never met a person who could troubleshoot Unity without making me feel like a complete idiot.
+
+Please find me. Our children will be beautiful. And hopefully know how to read error messages.
+
+**PANDA:**
+Forget flowers and chocolates. The hottest thing a man can say these days is, "Don't worry, I've already fixed it."
+
+
+**KITTY:**
+To the person I met in the original Altspace all those years ago...
+
+You said you were going to the bathroom and you'd be right back. I believed you. I waited. The party ended. The world emptied. The platform eventually shut down. Years passed.
+
+People moved on. Entire communities rebuilt themselves. And now, Altspace has returned. So I'm writing this in the hopes that you'll finally see it. WHERE THE HELL ARE YOU? DID YOU FALL IN?
+
+**PANDA:**
+Either this person has the worst case of constipation in human history... Or they figured out how to leave a party without spending forty-five minutes saying goodbye to everyone.
+
+**KITTY:**
+To the handsome stranger who pretended to be my boyfriend at a party last Saturday...
+
+You have no idea how grateful I am. He'd trapped me for forty-five minutes mansplaining feminism to me. At one point, he actually said, "You women would get a lot further if you'd just listen to us."
+
+I was desperate. So when I saw you standing nearby, I ran over, grabbed your arm, and shouted, "BABE! THERE YOU ARE!" Without missing a beat, you wrapped your arm around me and said, "Honey, we need to go. The babysitter just called."
+
+I played along. "Oh no! Is little Jimothy okay?"
+
+You looked me dead in the eyes and said, "Jimothy's fine. It's the twins we're worried about." THE TWINS?!
+
+By the time we escaped, we'd apparently been married twelve years, had three children, and were in couples counselling because you couldn't keep your hands off the neighbour.
+
+Please find me.
+
+
+**PANDA:**
+And somewhere out there, that first guy is telling his friends, "We really hit it off, but her husband got jealous." Sir, she invented THREE CHILDREN just to get away from you.
+
+**KITTY:**
+Well, there you have it, folks! Ten beautiful reminders that love can find you anywhere. Sometimes it's love at first sight. Sometimes it's a technical malfunction. And sometimes you're so desperate to escape a conversation that you accidentally end up married with three kids.
+
+**PANDA**
+And if you recognized yourself in any of these missed connections, congratulations! Or seek professional help.
+
+**KITTY**
+Or both. Definitely both.
+
+----------------------------------------
+**KITTY**
+This has been The VR Late Show. Until next time... 
+**PANDA**
+Reconsider your life choices.
