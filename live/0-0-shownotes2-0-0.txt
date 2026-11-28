@@ -1,2 +1,3 @@
 This is for secondary notes if any.
+Could be used for ALT-Libs, etc. with dynamic page reload.
 Press bottom right button to switch to Main Notes.
